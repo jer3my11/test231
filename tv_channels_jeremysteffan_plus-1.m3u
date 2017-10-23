@@ -1,0 +1,1097 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="ES: BEIN LA LIGA 1080 (test)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Movistar_Plus_logo.jpg" group-title="España",ES: BEIN LA LIGA 1080 (test)
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/5999.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: BEIN SPORT 1080 (test)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Movistar_Plus_logo.jpg" group-title="España",ES: BEIN SPORT 1080 (test)
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/6000.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA LIGA TV 1080 (test)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Movistar_Plus_logo.jpg" group-title="España",ES: LA LIGA TV 1080 (test)
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/5998.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR FUTBOL 1080p (test)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Movistar_Plus_logo.jpg" group-title="España",ES: MOVISTAR FUTBOL 1080p (test)
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/5997.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV1 (Partidos)" tvg-logo="http://elmejorblogdeapuestas.com/wp-content/uploads/2011/08/RealMadrid-Barcelona.jpg" group-title="Eventos",PPV1 (Partidos)
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/2875.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV2 (Partidos)" tvg-logo="http://elmejorblogdeapuestas.com/wp-content/uploads/2011/08/RealMadrid-Barcelona.jpg" group-title="Eventos",PPV2 (Partidos)
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1799.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV3 (Partidos)" tvg-logo="http://elmejorblogdeapuestas.com/wp-content/uploads/2011/08/RealMadrid-Barcelona.jpg" group-title="Eventos",PPV3 (Partidos)
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1800.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV4 (Partidos)" tvg-logo="http://iptveiksprivado.com/images/vod/eventosppv.png" group-title="Eventos",PPV4 (Partidos)
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1801.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV5 (Partidos)" tvg-logo="http://iptveiksprivado.com/images/vod/eventosppv.png" group-title="Eventos",PPV5 (Partidos)
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/2447.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV6 (Partidos)" tvg-logo="http://iptveiksprivado.com/images/vod/eventosppv.png" group-title="Eventos",PPV6 (Partidos)
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/5635.ts
+#EXTINF:-1 tvg-id="" tvg-name="==== CANALES MEXICO ====" tvg-logo="http://iptveiksprivado.com/Logos/BanderaME.png" group-title="MexicoTP",==== CANALES MEXICO ====
+http://iptveiksprivado.com/images/vod/canalesmexico.png
+#EXTINF:-1 tvg-id="Az Clic" tvg-name="AZ CLIC" tvg-logo="http://iptveiksprivado.com/Logos/AZTECA-CLIC-HD.png" group-title="MexicoTP",AZ CLIC
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/106.ts
+#EXTINF:-1 tvg-id="Az Corazón" tvg-name="AZ CORAZON" tvg-logo="http://iptveiksprivado.com/Logos/AZTECA-CORAZON-HD.png" group-title="MexicoTP",AZ CORAZON
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/28.ts
+#EXTINF:-1 tvg-id="Azteca 13 (México)" tvg-name="AZTECA 13" tvg-logo="http://iptveiksprivado.com/Logos/AZTECA-13-HD.png" group-title="MexicoTP",AZTECA 13
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/149.ts
+#EXTINF:-1 tvg-id="AZTECA 7" tvg-name="AZTECA 7" tvg-logo="http://iptveiksprivado.com/Logos/AZTECA-7-HD.png" group-title="MexicoTP",AZTECA 7
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/6.ts
+#EXTINF:-1 tvg-id="" tvg-name="AZTECA CINEMA" tvg-logo="http://iptveiksprivado.com/Logos/AZTECA-CINEMA-HD.png" group-title="MexicoTP",AZTECA CINEMA
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/75.ts
+#EXTINF:-1 tvg-id="AZTECA MUNDO" tvg-name="AZTECA MUNDO" tvg-logo="http://iptveiksprivado.com/Logos/AZTECA-MUNDO-HD-.png" group-title="MexicoTP",AZTECA MUNDO
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/40.ts
+#EXTINF:-1 tvg-id="CANAL 5" tvg-name="CANAL 5" tvg-logo="http://iptveiksprivado.com/Logos/CANAL-5-HD.png" group-title="MexicoTP",CANAL 5
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/4.ts
+#EXTINF:-1 tvg-id="CANAL 11" tvg-name="CANAL 11" tvg-logo="http://iptveiksprivado.com/Logos/CANAL-11-HD.png" group-title="MexicoTP",CANAL 11
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/8.ts
+#EXTINF:-1 tvg-id="CANAL DE LAS ESTRELLAS." tvg-name="CANAL DE LAS ESTRELLAS." tvg-logo="http://iptveiksprivado.com/Logos/CANAL-DE-LAS-ESTRELLAS.png" group-title="MexicoTP",CANAL DE LAS ESTRELLAS.
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/3.ts
+#EXTINF:-1 tvg-id="FORO TV" tvg-name="FORO TV" tvg-logo="http://iptveiksprivado.com/Logos/FORO-TV-HD.png" group-title="MexicoTP",FORO TV
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/5.ts
+#EXTINF:-1 tvg-id="GALA TV" tvg-name="GALA TV" tvg-logo="http://iptveiksprivado.com/Logos/GALAVISION-HD.png" group-title="MexicoTP",GALA TV
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/7.ts
+#EXTINF:-1 tvg-id="MILENIO TV" tvg-name="MILENIO TV" tvg-logo="http://media.tvalacarta.info/canales/256x256/mileniotv.png" group-title="MexicoTP",MILENIO TV
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/599.ts
+#EXTINF:-1 tvg-id="MULTIMEDIOS TV" tvg-name="MULTIMEDIOS TV" tvg-logo="http://iptveiksprivado.com/Logos/MULTIMEDIOS-TV-HD.png" group-title="MexicoTP",MULTIMEDIOS TV
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/13.ts
+#EXTINF:-1 tvg-id="AMC" tvg-name="ADN 40" tvg-logo="http://www.adn40.mx/images/adn40.png" group-title="MexicoTP",ADN 40
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/10.ts
+#EXTINF:-1 tvg-id="TELEFORMULA" tvg-name="TELEFORMULA" tvg-logo="http://iptveiksprivado.com/Logos/TELEFORMULA-HD.png" group-title="MexicoTP",TELEFORMULA
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/12.ts
+#EXTINF:-1 tvg-id="TVE" tvg-name="TVE" tvg-logo="http://iptveiksprivado.com/Logos/TVE-HD.png" group-title="MexicoTP",TVE
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/442.ts
+#EXTINF:-1 tvg-id="UNICABLE" tvg-name="UNICABLE" tvg-logo="http://iptveiksprivado.com/Logos/UNICABLE-HD.png" group-title="MexicoTP",UNICABLE
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/409.ts
+#EXTINF:-1 tvg-id="" tvg-name="==== CANALES CULTURALES ====" tvg-logo="http://iptveiksprivado.com/Logos/BanderaCulturales.png" group-title="Culturales",==== CANALES CULTURALES ====
+http://iptveiksprivado.com/images/vod/canalesculturales.png
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="http://iptveiksprivado.com/Logos/A&E.png" group-title="Culturales",A&E
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/20.ts
+#EXTINF:-1 tvg-id="ANIMAL PLANET." tvg-name="ANIMAL PLANET." tvg-logo="http://iptveiksprivado.com/Logos/ANIMAL-PLANET.png" group-title="Culturales",ANIMAL PLANET.
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/61.ts
+#EXTINF:-1 tvg-id="CNN EN ESPANOL" tvg-name="CNN EN ESPANOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/CNN_Espa%C3%B1ol_Logo_Viejo.png/220px-CNN_Espa%C3%B1ol_Logo_Viejo.png" group-title="Culturales",CNN EN ESPANOL
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/435.ts
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://iptveiksprivado.com/Logos/DiscoveryChannel.png" group-title="Culturales",DISCOVERY CHANNEL
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/60.ts
+#EXTINF:-1 tvg-id="DISCOVERY CIVILIZATION" tvg-name="DISCOVERY CIVILIZATION" tvg-logo="http://carvajalprteam.com.ar/wp-content/uploads/2013/10/Logo-Discovery-Civilization.jpg" group-title="Culturales",DISCOVERY CIVILIZATION
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/66.ts
+#EXTINF:-1 tvg-id="DISCOVERY HOME & HEALTH" tvg-name="DISCOVERY  HOME & HEALTH" tvg-logo="http://foromedios.com/uploads/gallery/album_2/gallery_1157_2_23131.png" group-title="Culturales",DISCOVERY  HOME & HEALTH
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/62.ts
+#EXTINF:-1 tvg-id="DISCOVERY SCIENCE." tvg-name="DISCOVERY SCIENCE." tvg-logo="http://www.k-sistemos.lt/frontend/files/userfiles/images/LOGO_DISCOVERY_SCIENCE(1).png" group-title="Culturales",DISCOVERY SCIENCE.
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/65.ts
+#EXTINF:-1 tvg-id="DISCOVERY THEATER" tvg-name="DISCOVERY THEATER" tvg-logo="https://i.ytimg.com/vi/np6Cksh-sDY/maxresdefault.jpg" group-title="Culturales",DISCOVERY THEATER
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/56.ts
+#EXTINF:-1 tvg-id="DISCOVERY TLC" tvg-name="DISCOVERY TLC" tvg-logo="http://iptveiksprivado.com/Logos/TLC-DISCOVERY-HD.png" group-title="Culturales",DISCOVERY TLC
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/68.ts
+#EXTINF:-1 tvg-id="DISCOVERY TURBO." tvg-name="DISCOVERY TURBO." tvg-logo="http://tvimages.burrp.com/images/channels2/documentary/Discovery-Turbo.png" group-title="Culturales",DISCOVERY TURBO.
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/67.ts
+#EXTINF:-1 tvg-id="DISCOVERY WORLD" tvg-name="DISCOVERY WORLD" tvg-logo="http://iptveiksprivado.com/Logos/WorldDiscoveryHD.png" group-title="Culturales",DISCOVERY WORLD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/59.ts
+#EXTINF:-1 tvg-id="ELGOURMETH" tvg-name="ELGOURMETH" tvg-logo="http://s18.postimg.org/9wkxy3qo9/Gourmet_Canal.jpg" group-title="Culturales",ELGOURMETH
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/424.ts
+#EXTINF:-1 tvg-id="E! ENTERTAINMENT" tvg-name="E! ENTERTAINMENT" tvg-logo="http://static1.squarespace.com/static/52992ad7e4b00e96518e3a37/52a52961e4b00aedfa1e1ff8/52a5296ae4b00aedfa1e2007/1386555755056/e-entertainment-television-logo.jpg?format=500w" group-title="Culturales",E! ENTERTAINMENT
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/411.ts
+#EXTINF:-1 tvg-id="" tvg-name="EL FINANCIERO BLOOMBERGS" tvg-logo="http://castle-avenue.com/El_financiero_Bloomberg_logo.jpg" group-title="Culturales",EL FINANCIERO BLOOMBERGS
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/436.ts
+#EXTINF:-1 tvg-id="FASHION TV" tvg-name="FASHION TV" tvg-logo="http://iptveiksprivado.com/Logos/FashionTV.png" group-title="Culturales",FASHION TV
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/26.ts
+#EXTINF:-1 tvg-id="GLITZ" tvg-name="GLITZ" tvg-logo="http://iptveiksprivado.com/Logos/GLITZ.png" group-title="Culturales",GLITZ
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/427.ts
+#EXTINF:-1 tvg-id="HISTORY" tvg-name="HISTORY" tvg-logo="http://2.bp.blogspot.com/-QSfFAp_jqP0/T3DH2aXPHUI/AAAAAAAABdg/5a9_qDD92AQ/s1600/h5.png" group-title="Culturales",HISTORY
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/378.ts
+#EXTINF:-1 tvg-id="HOLA TV" tvg-name="HOLA TV" tvg-logo="http://iptveiksprivado.com/Logos/HOLA-TV-HD.png" group-title="Culturales",HOLA TV
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/25.ts
+#EXTINF:-1 tvg-id="INVESTIGATION DISCOVERY" tvg-name="INVESTIGATION DISCOVERY" tvg-logo="http://iptveiksprivado.com/Logos/DiscoveryInvestigation.png" group-title="Culturales",INVESTIGATION DISCOVERY
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/417.ts
+#EXTINF:-1 tvg-id="LIFETIME" tvg-name="LIFETIME" tvg-logo="http://icanadvertising.com/wp-content/uploads/2014/11/Lifetime_Logo-whiteback.png" group-title="Culturales",LIFETIME
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/64.ts
+#EXTINF:-1 tvg-id="MASCHIC" tvg-name="MASCHIC" tvg-logo="http://iptveiksprivado.com/Logos/MASCHIC-HD.png" group-title="Culturales",MASCHIC
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/27.ts
+#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC." tvg-name="NATIONAL GEOGRAPHIC." tvg-logo="http://www.avenza.com/sites/default/files/images/national-geographic_logo.png" group-title="Culturales",NATIONAL GEOGRAPHIC.
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/379.ts
+#EXTINF:-1 tvg-id="NATGEO WILD" tvg-name="NATGEO WILD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="Culturales",NATGEO WILD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/380.ts
+#EXTINF:-1 tvg-id="TRU TV" tvg-name="TRU TV" tvg-logo="http://iptveiksprivado.com/Logos/trueTV-HD.png" group-title="Culturales",TRU TV
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/431.ts
+#EXTINF:-1 tvg-id="WOBI" tvg-name="WOBI" tvg-logo="http://iptveiksprivado.com/Logos/WOBI-HD.png" group-title="Culturales",WOBI
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/69.ts
+#EXTINF:-1 tvg-id="" tvg-name="==== CANALES COMEDIA ====" tvg-logo="http://iptveiksprivado.com/Logos/BanderaComedia.png" group-title="Entretenimiento",==== CANALES COMEDIA ====
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1638.ts
+#EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-name="COMEDY CENTRAL" tvg-logo="http://iptveiksprivado.com/Logos/COMEDY-CENTRAL-HD.png" group-title="Entretenimiento",COMEDY CENTRAL
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/430.ts
+#EXTINF:-1 tvg-id="DISTRITO COMEDIA" tvg-name="DISTRITO COMEDIA" tvg-logo="http://iptveiksprivado.com/Logos/DISTRITO-COMEDIA-HD.png" group-title="Entretenimiento",DISTRITO COMEDIA
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/429.ts
+#EXTINF:-1 tvg-id="TBS VERYFUNNY" tvg-name="TBS VERYFUNNY" tvg-logo="http://iptveiksprivado.com/Logos/TBS-VERYFUNNY-HD.png" group-title="Entretenimiento",TBS VERYFUNNY
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/426.ts
+#EXTINF:-1 tvg-id="TLNOVELAS" tvg-name="TLNOVELAS" tvg-logo="https://4.bp.blogspot.com/-E6b2VsJG0R4/UMeB36zPIhI/AAAAAAAAAoQ/byJ8wF8ArvI/s1600/rojo.png" group-title="Entretenimiento",TLNOVELAS
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1481.ts
+#EXTINF:-1 tvg-id="" tvg-name="==== CANALES INFANTILES ====" tvg-logo="http://iptveiksprivado.com/Logos/BanderaInfatiles.png" group-title="Infantiles",==== CANALES INFANTILES ====
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1639.ts
+#EXTINF:-1 tvg-id="" tvg-name="ANIME TV" tvg-logo="http://iptveiksprivado.com/Logos/ANIMETV.png" group-title="Infantiles",ANIME TV
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/3986.ts
+#EXTINF:-1 tvg-id="BOOMERANG" tvg-name="BOOMERANG" tvg-logo="https://i.ytimg.com/vi/61XdLabcUu8/hqdefault.jpg" group-title="Infantiles",BOOMERANG
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/605.ts
+#EXTINF:-1 tvg-id="CARTOON NETWORK." tvg-name="CARTOON NETWORK." tvg-logo="http://i.cdn.turner.com/dr/teg/turner/release/sites/default/files/images/cn_left_logo_3.png" group-title="Infantiles",CARTOON NETWORK.
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/402.ts
+#EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-name="DISCOVERY KIDS" tvg-logo="http://iptveiksprivado.com/Logos/DISCOVERY-KIDS-HD.png" group-title="Infantiles",DISCOVERY KIDS
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/401.ts
+#EXTINF:-1 tvg-id="DISNEY CHANNEL." tvg-name="DISNEY CHANNEL." tvg-logo="http://iptveiksprivado.com/Logos/DisneyChannel.png" group-title="Infantiles",DISNEY CHANNEL.
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/396.ts
+#EXTINF:-1 tvg-id="DISNEY JR" tvg-name="DISNEY JR" tvg-logo="http://style.shockvisual.net/wp-content/uploads/2014/11/disney-junior-logo.jpg" group-title="Infantiles",DISNEY JR
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/603.ts
+#EXTINF:-1 tvg-id="DISNEY XD." tvg-name="DISNEY XD." tvg-logo="http://iptveiksprivado.com/Logos/DisneyXD.png" group-title="Infantiles",DISNEY XD.
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/397.ts
+#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="http://iptveiksprivado.com/Logos/Nick_HD.png" group-title="Infantiles",NICKELODEON
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/399.ts
+#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON 2" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/1/12/Nick2.jpg" group-title="Infantiles",NICKELODEON 2
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1554.ts
+#EXTINF:-1 tvg-id="NICK JR." tvg-name="NICK JR." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Nick-Jr-old-logo.png" group-title="Infantiles",NICK JR.
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/400.ts
+#EXTINF:-1 tvg-id="NICK TOONS" tvg-name="NICK TOONS" tvg-logo="http://vignette3.wikia.nocookie.net/dragonball/images/6/6c/Nicktoonslogo.png" group-title="Infantiles",NICK TOONS
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/48.ts
+#EXTINF:-1 tvg-id="TIIN" tvg-name="TIIN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Tiin_logo.png/245px-Tiin_logo.png" group-title="Infantiles",TIIN
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/54.ts
+#EXTINF:-1 tvg-id="TOONCAST" tvg-name="TOONCAST" tvg-logo="http://alpavision.com/wp-content/uploads/2015/02/tooncast.jpg" group-title="Infantiles",TOONCAST
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/405.ts
+#EXTINF:-1 tvg-id="" tvg-name="==== CANALES DEPORTES ====" tvg-logo="http://iptveiksprivado.com/Logos/BanderaDeportes.png" group-title="Deportes",==== CANALES DEPORTES ====
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1641.ts
+#EXTINF:-1 tvg-id="AYM SPORT" tvg-name="AYM SPORT" tvg-logo="https://pbs.twimg.com/profile_images/1241409099/AyM.png" group-title="Deportes",AYM SPORT
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/99.ts
+#EXTINF:-1 tvg-id="BEIN SPORT Ñ" tvg-name="BEIN SPORT N" tvg-logo="http://latelete.tv/img/beinlatino.png" group-title="Deportes",BEIN SPORT N
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/120.ts
+#EXTINF:-1 tvg-id="" tvg-name="CDF SD (480)" tvg-logo="https://pbs.twimg.com/profile_images/662365490099183616/fUIH24By.jpg" group-title="Deportes",CDF SD (480)
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/5002.ts
+#EXTINF:-1 tvg-id="" tvg-name="CDF HD (720p)" tvg-logo="http://foromedios.com/uploads/gallery/category_6/med_gallery_1157_6_16978.png" group-title="Deportes",CDF HD (720p)
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1032.ts
+#EXTINF:-1 tvg-id="" tvg-name="CDF FULL HD (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Cdf_p.png/250px-Cdf_p.png" group-title="Deportes",CDF FULL HD (1080p)
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/878.ts
+#EXTINF:-1 tvg-id="" tvg-name="CDF PREMIUN (opc2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Cdf_p.png/250px-Cdf_p.png" group-title="Deportes",CDF PREMIUN (opc2)
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/530.ts
+#EXTINF:-1 tvg-id="" tvg-name="CHIVAS TV (solo partidos)" tvg-logo="http://apocaliptic.com/wp-content/uploads/2016/05/Ci6nxM9VEAA7CzO.jpg" group-title="Deportes",CHIVAS TV (solo partidos)
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1133.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORT" tvg-logo="http://www.televisionparatodos.tv/wp-content/uploads/2013/06/directv.jpg" group-title="Deportes",DIRECTV SPORT
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1034.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORT 2" tvg-logo="http://1.bp.blogspot.com/-vYjpa5qGEDI/VAN5N54oK7I/AAAAAAAAAG4/P5PmVrQJVs4/s1600/directv%2Bsports%2B2.png" group-title="Deportes",DIRECTV SPORT 2
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/723.ts
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="http://iptveiksprivado.com/Logos/ESPN-HD.png" group-title="Deportes",ESPN
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/382.ts
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2." tvg-logo="http://iptveiksprivado.com/Logos/ESPN2-HD.png" group-title="Deportes",ESPN 2.
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/383.ts
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="http://iptveiksprivado.com/Logos/ESPN3-HD.png" group-title="Deportes",ESPN 3
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/384.ts
+#EXTINF:-1 tvg-id="ESPN+" tvg-name="ESPN +" tvg-logo="http://iptveiksprivado.com/Logos/ESPN+HD.png" group-title="Deportes",ESPN +
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1201.ts
+#EXTINF:-1 tvg-id="F1 Latin America" tvg-name="F1" tvg-logo="http://iptveiksprivado.com/Logos/F1-HD.png" group-title="Deportes",F1
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/388.ts
+#EXTINF:-1 tvg-id="Fox Sports" tvg-name="FOX SPORT" tvg-logo="http://iptveiksprivado.com/Logos/FOX-SPORT-HD.png" group-title="Deportes",FOX SPORT
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/385.ts
+#EXTINF:-1 tvg-id="Fox Sports 2 HD" tvg-name="FOX SPORT 2" tvg-logo="http://iptveiksprivado.com/Logos/FOX-SPORT2-HD.png" group-title="Deportes",FOX SPORT 2
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/386.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT 2 HD (argentina)" tvg-logo="http://iptveiksprivado.com/Logos/FOX-SPORT2-HD.png" group-title="Deportes",FOX SPORT 2 HD (argentina)
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/123.ts
+#EXTINF:-1 tvg-id="Fox Sports 3" tvg-name="FOX SPORT 3" tvg-logo="http://iptveiksprivado.com/Logos/FOX-SPORT3-HD.png" group-title="Deportes",FOX SPORT 3
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/439.ts
+#EXTINF:-1 tvg-id="" tvg-name="GARAGE TV" tvg-logo="http://iptveiksprivado.com/Logos/GARAGE-TV-HD.png" group-title="Deportes",GARAGE TV
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/35.ts
+#EXTINF:-1 tvg-id="GOLTV" tvg-name="GOLTV" tvg-logo="http://dev.berovbros.com/list/list/Put%20contents%20in%20dev_hdd0/logos/gol.tv.png" group-title="Deportes",GOLTV
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1031.ts
+#EXTINF:-1 tvg-id="" tvg-name="HMX" tvg-logo="http://iptveiksprivado.com/Logos/HMX-HD.png" group-title="Deportes",HMX
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/14.ts
+#EXTINF:-1 tvg-id="" tvg-name="PX" tvg-logo="http://revistasenal.com/wp-content/uploads/2015/05/PX.jpg" group-title="Deportes",PX
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/98.ts
+#EXTINF:-1 tvg-id="TDN" tvg-name="TDN" tvg-logo="http://iptveiksprivado.com/Logos/TDN-MEXICO.png" group-title="Deportes",TDN
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/392.ts
+#EXTINF:-1 tvg-id="TyC Sports" tvg-name="TYC SPORT" tvg-logo="http://3.bp.blogspot.com/-0ddPvZ6Rh-k/TnrWUWsdvrI/AAAAAAAAEa8/Lec76D3FI7E/s1600/tyc_sports.png" group-title="Deportes",TYC SPORT
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1163.ts
+#EXTINF:-1 tvg-id="UFC Network" tvg-name="FIGHTING (UFC)" tvg-logo="http://forounivers.com/uploads/monthly_2017_03/large.58dddac664b8b_FightingSportsNetwork.png.8a9abdf4cb48a24189775128a1cf45e1.png" group-title="Deportes",FIGHTING (UFC)
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/116.ts
+#EXTINF:-1 tvg-id="WIN SPORT HD" tvg-name="WIN SPORT HD" tvg-logo="http://iptveiksprivado.com/Logos/WinSportHD.png" group-title="Deportes",WIN SPORT HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/492.ts
+#EXTINF:-1 tvg-id="WIN SPORT HD" tvg-name="WIN SPORT (opc2)" tvg-logo="http://iptveiksprivado.com/Logos/WinSportHD.png" group-title="Deportes",WIN SPORT (opc2)
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/857.ts
+#EXTINF:-1 tvg-id="" tvg-name="==== CANALES CINE ====" tvg-logo="http://iptveiksprivado.com/Logos/BanderaCine.png" group-title="Cine",==== CANALES CINE ====
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1640.ts
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="http://iptveiksprivado.com/Logos/AMC-HD.png" group-title="Cine",AMC
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/465.ts
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://iptveiksprivado.com/Logos/AXN-HD.png" group-title="Cine",AXN
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/177.ts
+#EXTINF:-1 tvg-id="Cinecanal" tvg-name="CINECANAL" tvg-logo="http://iptveiksprivado.com/Logos/CINECANAL-HD.png" group-title="Cine",CINECANAL
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/462.ts
+#EXTINF:-1 tvg-id="Cinecanal" tvg-name="CINECANAL+" tvg-logo="http://iptveiksprivado.com/Logos/CINECANAL+HD.png" group-title="Cine",CINECANAL+
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1207.ts
+#EXTINF:-1 tvg-id="Cinemax México" tvg-name="CINEMAX" tvg-logo="http://iptveiksprivado.com/Logos/CINEMAX-HD.png" group-title="Cine",CINEMAX
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/463.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE PELICULA" tvg-logo="http://iptveiksprivado.com/Logos/DE-PELICULA-HD.png" group-title="Cine",DE PELICULA
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/80.ts
+#EXTINF:-1 tvg-id="The Film Zone (E)" tvg-name="FILM ZONE" tvg-logo="http://iptveiksprivado.com/Logos/FILM-ZONE-HD.png" group-title="Cine",FILM ZONE
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/471.ts
+#EXTINF:-1 tvg-id="Fox" tvg-name="FOX." tvg-logo="http://iptveiksprivado.com/Logos/FOX-HD.png" group-title="Cine",FOX.
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/15.ts
+#EXTINF:-1 tvg-id="Fox" tvg-name="FOX (opc 2)" tvg-logo="http://iptveiksprivado.com/Logos/FOX-HD.png" group-title="Cine",FOX (opc 2)
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/414.ts
+#EXTINF:-1 tvg-id="Fox 1 (E)" tvg-name="FOX 1" tvg-logo="http://iptveiksprivado.com/Logos/FOX1.png" group-title="Cine",FOX 1
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/473.ts
+#EXTINF:-1 tvg-id="Fox Action (E)" tvg-name="FOX ACTION" tvg-logo="http://iptveiksprivado.com/Logos/FOX-ACTION-HD.png" group-title="Cine",FOX ACTION
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/478.ts
+#EXTINF:-1 tvg-id="Fox Cinéma" tvg-name="FOX CINEMA" tvg-logo="http://iptveiksprivado.com/Logos/FOX-CINEMA-HD.png" group-title="Cine",FOX CINEMA
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/476.ts
+#EXTINF:-1 tvg-id="Fox Classics" tvg-name="FOX CLASSIC" tvg-logo="http://iptveiksprivado.com/Logos/FOX-CLASSIC-HD.png" group-title="Cine",FOX CLASSIC
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/480.ts
+#EXTINF:-1 tvg-id="Fox Life" tvg-name="FOX LIFE" tvg-logo="http://iptveiksprivado.com/Logos/FOX-LIFE-HD.png" group-title="Cine",FOX LIFE
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/428.ts
+#EXTINF:-1 tvg-id="Fox Movies" tvg-name="FOX MOVIES" tvg-logo="http://iptveiksprivado.com/Logos/FOX-MOVIES-HD.png" group-title="Cine",FOX MOVIES
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/479.ts
+#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="http://iptveiksprivado.com/Logos/FX-HD.png" group-title="Cine",FX
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/152.ts
+#EXTINF:-1 tvg-id="Golden" tvg-name="GOLDEN" tvg-logo="http://iptveiksprivado.com/Logos/GOLDEN-HD.png" group-title="Cine",GOLDEN
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/456.ts
+#EXTINF:-1 tvg-id="Golden Edge" tvg-name="GOLDEN EDGE" tvg-logo="http://iptveiksprivado.com/Logos/GOLDEN-EDGE-HD.png" group-title="Cine",GOLDEN EDGE
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/457.ts
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://iptveiksprivado.com/Logos/HBOHD.png" group-title="Cine",HBO
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/112.ts
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="http://iptveiksprivado.com/Logos/HBO2-HD.png" group-title="Cine",HBO 2
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/482.ts
+#EXTINF:-1 tvg-id="HBO FAMILY" tvg-name="HBO FAMILY" tvg-logo="http://iptveiksprivado.com/Logos/HBOFamily.png" group-title="Cine",HBO FAMILY
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/113.ts
+#EXTINF:-1 tvg-id="HBO PLUS ESTE" tvg-name="HBO PLUS ESTE" tvg-logo="http://iptveiksprivado.com/Logos/HBOPlusEste.png" group-title="Cine",HBO PLUS ESTE
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/44.ts
+#EXTINF:-1 tvg-id="HBO PLUS OESTE (st)" tvg-name="HBO PLUS OESTE" tvg-logo="http://iptveiksprivado.com/Logos/HBOPlusOeste.png" group-title="Cine",HBO PLUS OESTE
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/484.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE" tvg-logo="http://images.mi.tv/channels/ar_hbo-signature-hd_m.png" group-title="Cine",HBO SIGNATURE
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/540.ts
+#EXTINF:-1 tvg-id="I.Sat" tvg-name="I-SAT" tvg-logo="http://iptveiksprivado.com/Logos/I-SAT-HD.png" group-title="Cine",I-SAT
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/468.ts
+#EXTINF:-1 tvg-id="MAX PRIME ESTE" tvg-name="MAX PRIME ESTE" tvg-logo="http://iptveiksprivado.com/Logos/MAX-PRIME-ESTE.png" group-title="Cine",MAX PRIME ESTE
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/488.ts
+#EXTINF:-1 tvg-id="MAX PRIME OESTE" tvg-name="MAX PRIME OESTE" tvg-logo="http://iptveiksprivado.com/Logos/MAX-PRIME-OESTE.png" group-title="Cine",MAX PRIME OESTE
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/489.ts
+#EXTINF:-1 tvg-id="SyFy" tvg-name="SYFY" tvg-logo="http://iptveiksprivado.com/Logos/SYFY-HD.png" group-title="Cine",SYFY
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/415.ts
+#EXTINF:-1 tvg-id="Sony Entertainment Television" tvg-name="SONY" tvg-logo="http://iptveiksprivado.com/Logos/SONY-HD.png" group-title="Cine",SONY
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/407.ts
+#EXTINF:-1 tvg-id="Space" tvg-name="SPACE" tvg-logo="http://iptveiksprivado.com/Logos/SPACE-HD.png" group-title="Cine",SPACE
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/464.ts
+#EXTINF:-1 tvg-id="Space" tvg-name="SPACE (opc2)" tvg-logo="http://iptveiksprivado.com/Logos/SPACE-HD.png" group-title="Cine",SPACE (opc2)
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1135.ts
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="STUDIO UNIVERSAL" tvg-logo="http://iptveiksprivado.com/Logos/STUDIO-UNIVERSAL-HD.png" group-title="Cine",STUDIO UNIVERSAL
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/466.ts
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="http://iptveiksprivado.com/Logos/TCM-HD.png" group-title="Cine",TCM
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/467.ts
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="http://iptveiksprivado.com/Logos/TNT-HD.png" group-title="Cine",TNT
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/461.ts
+#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT SERIES" tvg-logo="http://iptveiksprivado.com/Logos/TNT-SERIES-HD.png" group-title="Cine",TNT SERIES
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/423.ts
+#EXTINF:-1 tvg-id="Universal Channel" tvg-name="UNIVERSAL CHANNEL" tvg-logo="http://iptveiksprivado.com/Logos/UNIVERSAL-CHANNEL-HD.png" group-title="Cine",UNIVERSAL CHANNEL
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/413.ts
+#EXTINF:-1 tvg-id="Warner HD" tvg-name="WARNER CHANNEL" tvg-logo="http://iptveiksprivado.com/Logos/WARNER-CHANNEL-HD.png" group-title="Cine",WARNER CHANNEL
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/410.ts
+#EXTINF:-1 tvg-id="" tvg-name="==== CANALES MUSICA ====" tvg-logo="http://iptveiksprivado.com/Logos/BanderaMusica.png" group-title="Musicales",==== CANALES MUSICA ====
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1642.ts
+#EXTINF:-1 tvg-id="VH1 Classic" tvg-name="1 CLASSICS" tvg-logo="http://iptveiksprivado.com/Logos/1-CLASSICS.png" group-title="Musicales",1 CLASSICS
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/446.ts
+#EXTINF:-1 tvg-id="Bandamax" tvg-name="BANDAMAX" tvg-logo="http://iptveiksprivado.com/Logos/BANDAMAX.png" group-title="Musicales",BANDAMAX
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/451.ts
+#EXTINF:-1 tvg-id="" tvg-name="CAPITAL  TV" tvg-logo="http://1.bp.blogspot.com/-UmjzXQNMsDo/Uepdunjb21I/AAAAAAAAAcI/wmSJmKCg1l0/s1600/Capital+TV+Logo.png" group-title="Musicales",CAPITAL  TV
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1614.ts
+#EXTINF:-1 tvg-id="" tvg-name="HEART TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/Heart_TV_logo.png" group-title="Musicales",HEART TV
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1618.ts
+#EXTINF:-1 tvg-id="" tvg-name="HIT  TV" tvg-logo="http://www.vertele.com/files/2015/12/hit-tv-veinte.jpg" group-title="Musicales",HIT  TV
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1613.ts
+#EXTINF:-1 tvg-id="" tvg-name="KISS TV MUSIC" tvg-logo="http://3.bp.blogspot.com/-1QDQnMVbCfA/VjLFeLlRS1I/AAAAAAAAUqE/dzrJmGCetzk/s320/kiss.jpg" group-title="Musicales",KISS TV MUSIC
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1619.ts
+#EXTINF:-1 tvg-id="" tvg-name="MI MUSICA HD" tvg-logo="http://i.imgur.com/ZeDwZ.png" group-title="Musicales",MI MUSICA HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/508.ts
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV." tvg-logo="https://s-media-cache-ak0.pinimg.com/236x/9b/72/e8/9b72e8c3d1685aa993b571d464866ecd--s-aesthetic-s-party.jpg" group-title="Musicales",MTV.
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/444.ts
+#EXTINF:-1 tvg-id="MTV Hits" tvg-name="MTV HITS" tvg-logo="http://iptveiksprivado.com/Logos/MTV-HITS.png" group-title="Musicales",MTV HITS
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/445.ts
+#EXTINF:-1 tvg-id="MTV Live HD" tvg-name="MTV LIVE" tvg-logo="http://iptveiksprivado.com/Logos/MTV-LIVE.png" group-title="Musicales",MTV LIVE
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/500.ts
+#EXTINF:-1 tvg-id="Telehit HD" tvg-name="TELEHIT" tvg-logo="http://iptveiksprivado.com/Logos/TELEHIT.png" group-title="Musicales",TELEHIT
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/104.ts
+#EXTINF:-1 tvg-id="" tvg-name="TIGO MUSIC" tvg-logo="http://www.tigomusic.co/sites/music.co/files/logo_music.png" group-title="Musicales",TIGO MUSIC
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/804.ts
+#EXTINF:-1 tvg-id="Ritmoson Latino" tvg-name="RITMOSON" tvg-logo="http://iptveiksprivado.com/Logos/RITMOSON.png" group-title="Musicales",RITMOSON
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/110.ts
+#EXTINF:-1 tvg-id="VH1" tvg-name="VH1" tvg-logo="http://iptveiksprivado.com/Logos/VH1.png" group-title="Musicales",VH1
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/447.ts
+#EXTINF:-1 tvg-id="" tvg-name="==== CANALES RELIGIOSOS ====" tvg-logo="http://www.rutasdelpaisajeculturalcafetero.com/publicaciones/info/rutadelcafe/media/img3331.png" group-title="Religiosos",==== CANALES RELIGIOSOS ====
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1944.ts
+#EXTINF:-1 tvg-id="" tvg-name="3ABN KIDZ" tvg-logo="http://3abnkids.tv/img/3ABN-KIDS-LOGO.png" group-title="Religiosos",3ABN KIDZ
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1146.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALIENTO VISION" tvg-logo="http://www.ministeriosonline.com/wp-content/uploads/2014/01/aliento-vision1-196x126.png" group-title="Religiosos",ALIENTO VISION
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1544.ts
+#EXTINF:-1 tvg-id="" tvg-name="CBN ESPAÑOL" tvg-logo="http://www.encinardemamre.com/imagenes/ver-canal-de-tv-CBN_Espanol.jpg" group-title="Religiosos",CBN ESPAÑOL
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1549.ts
+#EXTINF:-1 tvg-id="" tvg-name="CIELO TV" tvg-logo="http://www.iptvcristiano.com/uploads/channels/122/logo_thumb.jpg" group-title="Religiosos",CIELO TV
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1145.ts
+#EXTINF:-1 tvg-id="" tvg-name="COMUNION TV" tvg-logo="http://www.iptvcristiano.com/uploads/channels/14/logo_thumb.jpg" group-title="Religiosos",COMUNION TV
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1484.ts
+#EXTINF:-1 tvg-id="" tvg-name="CRISTO VISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Cristovisi%C3%B3n_Logo.png/245px-Cristovisi%C3%B3n_Logo.png" group-title="Religiosos",CRISTO VISION
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1486.ts
+#EXTINF:-1 tvg-id="" tvg-name="ENLACE TV" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/7/7f/Logo-enlace.jpg" group-title="Religiosos",ENLACE TV
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1490.ts
+#EXTINF:-1 tvg-id="" tvg-name="ENLACE JUVENIL" tvg-logo="http://www.devocionalescristianos.org/wp-content/uploads/2008/10/enlace-juvenil1.jpg" group-title="Religiosos",ENLACE JUVENIL
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1491.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPERANZA TV" tvg-logo="http://iptveiksprivado.com/Logos/DisneyJunior.png" group-title="Religiosos",ESPERANZA TV
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1550.ts
+#EXTINF:-1 tvg-id="" tvg-name="EWTN" tvg-logo="https://radiosantisimosacramento.com/pictures/EWTN.jpg" group-title="Religiosos",EWTN
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1487.ts
+#EXTINF:-1 tvg-id="" tvg-name="GENESIS TELEVISION" tvg-logo="http://iptveiksprivado.com/Logos/DisneyChannel.png" group-title="Religiosos",GENESIS TELEVISION
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1551.ts
+#EXTINF:-1 tvg-id="" tvg-name="PAX CATOLICO PERU" tvg-logo="http://paxtv.org/data/paxtv/programas/9.jpg" group-title="Religiosos",PAX CATOLICO PERU
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/619.ts
+#EXTINF:-1 tvg-id="" tvg-name="VISION CELESTIAL" tvg-logo="http://iptveiksprivado.com/Logos/Nick_HD.png" group-title="Religiosos",VISION CELESTIAL
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1548.ts
+#EXTINF:-1 tvg-id="" tvg-name="==== CANALES INTERNACIONALES ====" tvg-logo="https://albordedelcaosdotcom.files.wordpress.com/2011/09/banderas-del-mundo.jpg" group-title="Internacionales",==== CANALES INTERNACIONALES ====
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1644.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA - AMERICA TV HD" tvg-logo="http://latelete.tv/img/americatv.png" group-title="Argentina",ARGENTINA - AMERICA TV HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/5248.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA - CANAL 4 HD" tvg-logo="http://www.freeetv.com/images/01_logo/canal_cuatro_argentina.jpg" group-title="Argentina",ARGENTINA - CANAL 4 HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/660.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA - CANAL 9 HD" tvg-logo="http://i.imgur.com/7d1x7.jpg" group-title="Argentina",ARGENTINA - CANAL 9 HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/5254.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA - CANAL 13 HD" tvg-logo="http://www.impulsonegocios.com/resources/produccion/contenidos/medium/pais/eltrecehd150511.jpg" group-title="Argentina",ARGENTINA - CANAL 13 HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/5255.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA - CANAL 26" tvg-logo="http://3.bp.blogspot.com/-npkli2sUKfY/VmNhfsqp56I/AAAAAAAAAEU/ROrw8RlKD70/s1600/Canal-26.jpg" group-title="Argentina",ARGENTINA - CANAL 26
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1197.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA - CANAL 26 HD" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_02/large.5898c1e1c91e4_26tvhd.png.70740f3ccda22cfe7425dccedd455995.png" group-title="Argentina",ARGENTINA - CANAL 26 HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/727.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA - C5N HD" tvg-logo="http://www.politicaplus.com/wadmin/upload/375130_C5N.jpg" group-title="Argentina",ARGENTINA - C5N HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/109.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA - CRONICA" tvg-logo="http://www.corbiobio.cl/fotos/logo4.jpg" group-title="Argentina",ARGENTINA - CRONICA
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/885.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA - DXTV" tvg-logo="http://iptveiksprivado.com/Logos/DXTV.png" group-title="Argentina",ARGENTINA - DXTV
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/136.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA - ENCUENTRO" tvg-logo="http://www.sebastianescofet.com/english/wp-content/uploads/2015/01/285263129_encuentro_canal_logo.jpg" group-title="Argentina",ARGENTINA - ENCUENTRO
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1401.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA - ORBE 21" tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/ORBEE.jpg" group-title="Argentina",ARGENTINA - ORBE 21
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1408.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA - PAKAPAKA" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Paka-Paka.png" group-title="Argentina",ARGENTINA - PAKAPAKA
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/886.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA - TELEFE HD" tvg-logo="http://2.bp.blogspot.com/-60_56ArPKk0/VnSe7Oq438I/AAAAAAAAAd4/MrX0f9s5KhQ/s1600/telefe-hd-2012.png" group-title="Argentina",ARGENTINA - TELEFE HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/5253.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA - TELPIN TV" tvg-logo="http://colsecornoticias.com.ar/images/Cooperativas/Pinamar-Telpin/canal_2.png" group-title="Argentina",ARGENTINA - TELPIN TV
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1194.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA - TELPIN HD" tvg-logo="http://www.telpinteve.com.ar/imagenes/Canal2Logos-03.png" group-title="Argentina",ARGENTINA - TELPIN HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/549.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA - TELEMAX HD" tvg-logo="http://4.bp.blogspot.com/-0Y5RvxRdyOY/VRdO6WxI-rI/AAAAAAAAAaM/ep0DLk0wmXU/s320/TLX%2BTelemax.png" group-title="Argentina",ARGENTINA - TELEMAX HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1404.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA - TN HD" tvg-logo="http://iptveiksprivado.com/Logos/TN-Todo-Noticias.png" group-title="Argentina",ARGENTINA - TN HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1405.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA - TV PUBLICA HD" tvg-logo="http://www.gigadescargas.com/wp-content/uploads/2014/06/tv-publica.jpg" group-title="Argentina",ARGENTINA - TV PUBLICA HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/5247.ts
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA - CABLENOTICIAS" tvg-logo="http://foromedios.com/uploads/gallery/category_7/med_gallery_5692_7_10574.png" group-title="Colombia",COLOMBIA - CABLENOTICIAS
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/477.ts
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA - CANAL ANTIESTRES" tvg-logo="http://iptveiksprivado.com/Logos/CANAL-ANTIESTRES.png" group-title="Colombia",COLOMBIA - CANAL ANTIESTRES
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/486.ts
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA - CANTINAZO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/CTV_LOGO.png/245px-CTV_LOGO.png" group-title="Colombia",COLOMBIA - CANTINAZO
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/860.ts
+#EXTINF:-1 tvg-id="COLOMBIA - CARACOL" tvg-name="COLOMBIA - CARACOL" tvg-logo="http://www.dragonjar.org/wp-content/uploads/2002/02/Canal-Caracol-en-Vivo.jpg" group-title="Colombia",COLOMBIA - CARACOL
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/509.ts
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA - LIFE DESIGN TV" tvg-logo="http://www.freeetv.com/images/reydddd/lifedesign.png" group-title="Internacionales",COLOMBIA - LIFE DESIGN TV
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/483.ts
+#EXTINF:-1 tvg-id="CANAL RCN" tvg-name="COLOMBIA - RCN" tvg-logo="http://iptveiksprivado.com/Logos/rcn.png" group-title="Colombia",COLOMBIA - RCN
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/512.ts
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA - TELECAFE" tvg-logo="http://www.toptec.com.co/wp-content/uploads/2012/10/telecafe.png" group-title="Colombia",COLOMBIA - TELECAFE
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/481.ts
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA - VMASTV" tvg-logo="https://lh6.googleusercontent.com/-0vj3JwCG7gY/UY0f-xlZxeI/AAAAAAAACK4/2e7V7B3y_bU/s400/logo%2520de%2520vmastv.png" group-title="Colombia",COLOMBIA - VMASTV
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/485.ts
+#EXTINF:-1 tvg-id="" tvg-name="COSTA RICA - COLOSAL TV" tvg-logo="http://iptveiksprivado.com/Logos/COLOSAL-TV.png" group-title="Internacionales",COSTA RICA - COLOSAL TV
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1415.ts
+#EXTINF:-1 tvg-id="" tvg-name="COSTA RICA - SMO TV" tvg-logo="http://smoradio.com/imagenes/Logo-SMOradio-web.png" group-title="Internacionales",COSTA RICA - SMO TV
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1414.ts
+#EXTINF:-1 tvg-id="" tvg-name="COSTA RICA - TVUNO" tvg-logo="http://iptveiksprivado.com/Logos/TVUNO.png" group-title="Internacionales",COSTA RICA - TVUNO
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1192.ts
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - 13c" tvg-logo="https://pbs.twimg.com/profile_images/2367195089/r6fn6fuywdmqizn37c20_400x400.jpeg" group-title="Chile",CHILE - 13c
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/3998.ts
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - CANAL 13" tvg-logo="http://static.13.cl/7/sites/all/themes/portal/resources/images/logo_13cl-2x.png" group-title="Chile",CHILE - CANAL 13
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/921.ts
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - CANAL 13 HD" tvg-logo="http://static.13.cl/7/sites/all/themes/portal/resources/images/logo_13cl-2x.png" group-title="Chile",CHILE - CANAL 13 HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1422.ts
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - CHILEVISION" tvg-logo="http://www.observatoriofucatel.cl/wp-content/uploads/2010/12/logo-chilevision-300x300.jpg" group-title="Chile",CHILE - CHILEVISION
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/966.ts
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - CHILEVISION HD" tvg-logo="http://www.observatoriofucatel.cl/wp-content/uploads/2010/12/logo-chilevision-300x300.jpg" group-title="Chile",CHILE - CHILEVISION HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/3192.ts
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - CNN" tvg-logo="http://www.lamac.org/res/channels/logos/_0011_cnn_chile.png" group-title="Chile",CHILE - CNN
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/3191.ts
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - EL PINGUINO TV" tvg-logo="http://elpinguino.com/uploads/imagenes/a4d656f47bdac68143488c2e0990c407.jpg" group-title="Chile",CHILE - EL PINGUINO TV
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1189.ts
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - LA RED HD" tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/06/LaRed-Logo-300x300.jpg" group-title="Chile",CHILE - LA RED HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1420.ts
+#EXTINF:-1 tvg-id="CHILE - MEGA" tvg-name="CHILE - MEGA" tvg-logo="http://iptveiksprivado.com/Logos/Mega_oficial_2016.png" group-title="Chile",CHILE - MEGA
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/3691.ts
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - MEGA HD" tvg-logo="http://iptveiksprivado.com/Logos/Mega_oficial_2016.png" group-title="Chile",CHILE - MEGA HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/967.ts
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - TELETRAK TV" tvg-logo="https://farm6.staticflickr.com/5698/21150836481_1c5d625145.jpg" group-title="Chile",CHILE - TELETRAK TV
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/3755.ts
+#EXTINF:-1 tvg-id="CHILE - TVN HD" tvg-name="CHILE - TVN" tvg-logo="http://iptveiksprivado.com/Logos/TVChile_local_logo_2016.png" group-title="Chile",CHILE - TVN
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/3731.ts
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - TVN HD" tvg-logo="http://iptveiksprivado.com/Logos/TVChile_local_logo_2016.png" group-title="Chile",CHILE - TVN HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/3996.ts
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - TVRED" tvg-logo="http://elpinguino.com/uploads/imagenes/31ff813ec09ff24223fd1fed891336da.jpg" group-title="Chile",CHILE - TVRED
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/881.ts
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - UCV HD" tvg-logo="http://www.ucvmedios.cl/imagenes/logo-ucv-200.png" group-title="Chile",CHILE - UCV HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/883.ts
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - VALLE TV CANAL 2" tvg-logo="http://www.televisiongratis.tv/components/com_televisiongratis/images/vtv2-valle-televisin-570.jpg" group-title="Chile",CHILE - VALLE TV CANAL 2
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/884.ts
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Ecuatoriano de Futbol 1" tvg-logo="http://iptveiksprivado.com/Logos/campeonatoec.png" group-title="Ecuador",Campeonato Ecuatoriano de Futbol 1
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/729.ts
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Ecuatoriano deFutbol 2" tvg-logo="http://iptveiksprivado.com/Logos/campeonatoec.png" group-title="Ecuador",Campeonato Ecuatoriano deFutbol 2
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/731.ts
+#EXTINF:-1 tvg-id="" tvg-name="EL CANAL DEL FUTBOL (solo partidos)" tvg-logo="https://elcanaldelfutbol.com/static/images/logo_canal_reg.png" group-title="Ecuador",EL CANAL DEL FUTBOL (solo partidos)
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/5444.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNT SPORT (solo partidos)" tvg-logo="https://www.cnt.gob.ec/tv/wp-content/uploads/sites/5/2017/03/cnt_sport.png" group-title="Ecuador",CNT SPORT (solo partidos)
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/5517.ts
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR - ECUAVISA HD" tvg-logo="http://blixtv.com/wp-content/uploads/2015/03/ecuavisa.jpg" group-title="Ecuador",ECUADOR - ECUAVISA HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/5420.ts
+#EXTINF:-1 tvg-id="" tvg-name="06 ECUADOR - RTS" tvg-logo="http://cdn.rts.com.ec/sites/common/img/logo_rts.png" group-title="Ecuador",06 ECUADOR - RTS
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/726.ts
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR - TELEAMAZONAS SD" tvg-logo="http://www.teleamazonas.com/wp-content/uploads/2015/05/logo-teleamazonas5.png" group-title="Ecuador",ECUADOR - TELEAMAZONAS SD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1437.ts
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR - TELEAMAZONAS FULL HD (1080p)" tvg-logo="http://www.teleamazonas.com/wp-content/uploads/2015/05/logo-teleamazonas5.png" group-title="Ecuador",ECUADOR - TELEAMAZONAS FULL HD (1080p)
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/600.ts
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR - ECUADOR TV SD" tvg-logo="http://2.bp.blogspot.com/-QYxSqPY5sGY/VlY3NpHHCVI/AAAAAAAAScQ/JJH5A_ErhI8/s1600/Ecuadortv%2Ben%2Bvivo.png" group-title="Ecuador",ECUADOR - ECUADOR TV SD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1205.ts
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR - ECUADOR TV  FULL HD (1080p)" tvg-logo="http://2.bp.blogspot.com/-QYxSqPY5sGY/VlY3NpHHCVI/AAAAAAAAScQ/JJH5A_ErhI8/s1600/Ecuadortv%2Ben%2Bvivo.png" group-title="Ecuador",ECUADOR - ECUADOR TV  FULL HD (1080p)
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1623.ts
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR - GAMA TV SD" tvg-logo="http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/062015/untitled-1_0.png" group-title="Ecuador",ECUADOR - GAMA TV SD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/923.ts
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR - GAMA TV FULL HD (1080p)" tvg-logo="http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/062015/untitled-1_0.png" group-title="Ecuador",ECUADOR - GAMA TV FULL HD (1080p)
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/998.ts
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR - TC TELEVISION SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tc_logo.png/180px-Tc_logo.png" group-title="Ecuador",ECUADOR - TC TELEVISION SD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1204.ts
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR - TC TELEVISION FULL HD (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tc_logo.png/180px-Tc_logo.png" group-title="Ecuador",ECUADOR - TC TELEVISION FULL HD (1080p)
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/5421.ts
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR - CANAL UNO SD" tvg-logo="http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/102015/canal_uno.png" group-title="Ecuador",ECUADOR - CANAL UNO SD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/840.ts
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR - CANAL UNO HD 1080p" tvg-logo="http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/102015/canal_uno.png" group-title="Ecuador",ECUADOR - CANAL UNO HD 1080p
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/546.ts
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR - OROMAR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Oromar_logo.png/200px-Oromar_logo.png" group-title="Ecuador",ECUADOR - OROMAR TV
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/3190.ts
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR - TVC SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/TVCEC.png/150px-TVCEC.png" group-title="Ecuador",ECUADOR - TVC SD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/437.ts
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR - TVC FULL HD (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/TVCEC.png/150px-TVCEC.png" group-title="Ecuador",ECUADOR - TVC FULL HD (1080p)
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/5371.ts
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR - TVN" tvg-logo="http://www.freeetv.com/images/01_logo/tvn_ecuador.jpg" group-title="Ecuador",ECUADOR - TVN
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/839.ts
+#EXTINF:-1 tvg-id="" tvg-name="NICARAGUA - CANAL 2" tvg-logo="http://cdn.laprensa.com.ni/wp-content/uploads/2015/01/170115porCanal2photo011.jpg" group-title="Internacionales",NICARAGUA - CANAL 2
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1446.ts
+#EXTINF:-1 tvg-id="" tvg-name="PERU - AMERICA TV HD" tvg-logo="http://mytvlive.me/wp-content/uploads/2016/04/america_tv.png" group-title="Peru",PERU - AMERICA TV HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/900.ts
+#EXTINF:-1 tvg-id="" tvg-name="PERU - ATV HD" tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/05/ATV-Logo.jpg" group-title="Peru",PERU - ATV HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/901.ts
+#EXTINF:-1 tvg-id="" tvg-name="PERU - CAPITAL TV" tvg-logo="http://www.gruporpp.com.pe/fotos/productos/grandes/GrupoRPP-20140925115428capitaltv.jpg" group-title="Peru",PERU - CAPITAL TV
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1454.ts
+#EXTINF:-1 tvg-id="" tvg-name="PERU - GOLPERU" tvg-logo="https://3.bp.blogspot.com/-DHIgBR5LIEs/WEGZrAaz9eI/AAAAAAAAD3g/DAJNBJdEscUYBk6NgVkYl5dLOFWyaSLKgCLcB/s1600/golperu.png" group-title="Peru",PERU - GOLPERU
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1030.ts
+#EXTINF:-1 tvg-id="" tvg-name="PERU - FRECUENCIA LATINA" tvg-logo="http://2.bp.blogspot.com/-Y11ofChYZzk/UsKCA6oh4OI/AAAAAAAAKe8/KyFkDAZ-o1E/s1600/logo-canal-frecuencia-latina-en-vivo.jpg" group-title="Peru",PERU - FRECUENCIA LATINA
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/898.ts
+#EXTINF:-1 tvg-id="" tvg-name="PERU - PANAMERICANA TV" tvg-logo="https://1.bp.blogspot.com/-Ehbeg6mxnYw/WEGZvhc8bwI/AAAAAAAAD54/jQpiwl43r3oLjfzQ2tU3UwOuEPgNhpMXACLcB/s1600/panamericana.png" group-title="Peru",PERU - PANAMERICANA TV
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1455.ts
+#EXTINF:-1 tvg-id="" tvg-name="PERU - TVPERU" tvg-logo="https://2.bp.blogspot.com/-eSHv60heVvg/WEGZ0FzJ-PI/AAAAAAAAD7w/-L2QKx1h2sM4cVXLAFFWcvVWLNVXcTJ5gCLcB/s1600/tvperu.png" group-title="Peru",PERU - TVPERU
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/895.ts
+#EXTINF:-1 tvg-id="" tvg-name="PERU - TVPERU HD" tvg-logo="http://cdn7.larepublica.pe/sites/default/files/styles/img_170x100/public/imagen/2016/06/28/tv-Noticia-780820.png" group-title="Peru",PERU - TVPERU HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/897.ts
+#EXTINF:-1 tvg-id="" tvg-name="PERU - TV PERU 7.3" tvg-logo="http://www.peruseries.com/cdn.img/canaltv/tv-peru.jpg" group-title="Peru",PERU - TV PERU 7.3
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1456.ts
+#EXTINF:-1 tvg-id="" tvg-name="PERU - WILLAX" tvg-logo="http://lh3.googleusercontent.com/-FJbZphu8-Hg/U5l-w_9uG2I/AAAAAAAABAw/aCXN8VZNsd4/s300/willax-tv-peru.png" group-title="Peru",PERU - WILLAX
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/894.ts
+#EXTINF:-1 tvg-id="" tvg-name="PUERTO RICO - ABC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/de/WORA-TV_ABC5.png/125px-WORA-TV_ABC5.png" group-title="Internacionales",PUERTO RICO - ABC
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1153.ts
+#EXTINF:-1 tvg-id="" tvg-name="PUERTO RICO - NBC" tvg-logo="https://yt3.ggpht.com/-G5e2GCDp19w/AAAAAAAAAAI/AAAAAAAAAAA/whI8ecEqZYw/s100-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Internacionales",PUERTO RICO - NBC
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1149.ts
+#EXTINF:-1 tvg-id="" tvg-name="PUERTO RICO - MEGA TV" tvg-logo="http://newsismybusiness.com/wp-content/uploads/2012/08/megatv.jpg" group-title="Internacionales",PUERTO RICO - MEGA TV
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1635.ts
+#EXTINF:-1 tvg-id="" tvg-name="PUERTO RICO -TELEMUNDO" tvg-logo="http://4.bp.blogspot.com/-cjx333dT1og/UV8Hp0fFIHI/AAAAAAAAiWY/ephyYu8dFY4/s1600/Telemundo+Puerto++Rico+grande.png" group-title="Internacionales",PUERTO RICO -TELEMUNDO
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1633.ts
+#EXTINF:-1 tvg-id="" tvg-name="PUERTO RICO -UNIVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Univision_PR_2013_Logo.jpg" group-title="Internacionales",PUERTO RICO -UNIVISION
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1634.ts
+#EXTINF:-1 tvg-id="" tvg-name="PUERTO RICO - WAPA" tvg-logo="https://media.licdn.com/media/p/7/000/1f7/30e/2b7da59.png" group-title="Internacionales",PUERTO RICO - WAPA
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1632.ts
+#EXTINF:-1 tvg-id="" tvg-name="PUERTO RICO - WAPA 2" tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/wapa_2_deportes-mediano.png" group-title="Internacionales",PUERTO RICO - WAPA 2
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1148.ts
+#EXTINF:-1 tvg-id="" tvg-name="REP. DOMINICANA - TELEFUTURO" tvg-logo="http://tvonline.linkscomdo.netdna-cdn.com/images/sobipro/entries/21/img_telefuturo-canal%2023.jpg" group-title="Internacionales",REP. DOMINICANA - TELEFUTURO
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/908.ts
+#EXTINF:-1 tvg-id="" tvg-name="REP. DOMINICANA - TELEUNIVERSO" tvg-logo="http://cdn.conectate.com.do.s3.amazonaws.com/wp-content/uploads/2011/04/teleuniverso-1.png" group-title="Internacionales",REP. DOMINICANA - TELEUNIVERSO
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/911.ts
+#EXTINF:-1 tvg-id="" tvg-name="URUGUAY - CANAL 5" tvg-logo="https://lagalenadelsur.files.wordpress.com/2013/04/tnu_logo_320.jpg" group-title="Uruguay",URUGUAY - CANAL 5
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/947.ts
+#EXTINF:-1 tvg-id="" tvg-name="URUGUAY - CANAL 10" tvg-logo="http://sin-tele.com/wp-content/uploads/2014/11/canal-10-uruguay-300-144x144.png" group-title="Uruguay",URUGUAY - CANAL 10
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/3997.ts
+#EXTINF:-1 tvg-id="" tvg-name="URUGUAY - CANAL 12" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6074/240/default.jpg" group-title="Uruguay",URUGUAY - CANAL 12
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/948.ts
+#EXTINF:-1 tvg-id="" tvg-name="URUGUAY - TV CIUDAD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TV_Ciudad.svg/245px-TV_Ciudad.svg.png" group-title="Uruguay",URUGUAY - TV CIUDAD HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1522.ts
+#EXTINF:-1 tvg-id="" tvg-name="URUGUAY - VERA PLUS HD" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6001/240/default.jpg" group-title="Uruguay",URUGUAY - VERA PLUS HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1519.ts
+#EXTINF:-1 tvg-id="" tvg-name="URUGUAY - VTV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/VTVURU.png/190px-VTVURU.png" group-title="Uruguay",URUGUAY - VTV SD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/751.ts
+#EXTINF:-1 tvg-id="VTV" tvg-name="URUGUAY - VTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/VTVURU.png/190px-VTVURU.png" group-title="Uruguay",URUGUAY - VTV HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/822.ts
+#EXTINF:-1 tvg-id="" tvg-name="URUGUAY - VTV PLUS HD" tvg-logo="http://1.bp.blogspot.com/-3CggmnjiSDQ/UaQXN8gQybI/AAAAAAAAEbQ/JiKm1d_1OkI/s1600/vtuuru.jpg" group-title="Uruguay",URUGUAY - VTV PLUS HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/821.ts
+#EXTINF:-1 tvg-id="" tvg-name="==== CANALES USA ESPAÑOL ====" tvg-logo="http://iptveiksprivado.com/Logos/BanderaUSA.png" group-title="",==== CANALES USA ESPAÑOL ====
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1646.ts
+#EXTINF:-1 tvg-id="Telemundo" tvg-name="TELEMUNDO" tvg-logo="http://iptveiksprivado.com/Logos/TELEMUNDO.png" group-title="Internacionales",TELEMUNDO
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/515.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO HD" tvg-logo="http://logonoid.com/images/thumbs/telemundo-logo.png" group-title="Internacionales",TELEMUNDO HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/3196.ts
+#EXTINF:-1 tvg-id="Univisión TDN" tvg-name="UNIVISION TDN" tvg-logo="http://iptveiksprivado.com/Logos/udn_tdn.bmp" group-title="Deportes",UNIVISION TDN
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/129.ts
+#EXTINF:-1 tvg-id="" tvg-name="==== CANALES USA ====" tvg-logo="http://iptveiksprivado.com/Logos/BanderaUSA.png" group-title="",==== CANALES USA ====
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1645.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: HBO  HD" tvg-logo="http://iptveiksprivado.com/Logos/HBOHD.png" group-title="Usa",USA: HBO  HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/960.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: HBO ZONE HD" tvg-logo="http://www.direct-vs-dish.com/media/channel_logos/hbo_zone.png.300x300_q85.png" group-title="Usa",USA: HBO ZONE HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/708.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: STARZ EDGE" tvg-logo="http://filecache.drivetheweb.com/mr4enh_starz/7462/stzedge_pre_orange_rgb.jpg" group-title="Usa",USA: STARZ EDGE
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/728.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: SKY MOVIES ACTION HD" tvg-logo="http://spaniabox.com/SWE/assets/@1/Sky_Movies_Action_&_Adventure.jpg" group-title="Usa",USA: SKY MOVIES ACTION HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/737.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: SKY MOVIES COMEDY HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Movies-Comedy-HD-UK_o.jpg" group-title="Usa",USA: SKY MOVIES COMEDY HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/738.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: SKY MOVIES DISNEY HD" tvg-logo="http://iptveiksprivado.com/Logos/SkyMoviesDisney.png" group-title="Usa",USA: SKY MOVIES DISNEY HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/735.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: SKY MOVIES FAMILY HD" tvg-logo="http://iptveiksprivado.com/Logos/SkyMoviesFamily.png" group-title="Usa",USA: SKY MOVIES FAMILY HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/736.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: SKY MOVIES PREMIERE HD" tvg-logo="http://www.asset1.net/tv/pictures/channel/skymovies/Sky-Movies-Premiere-Logo-DI-1.jpg" group-title="Usa",USA: SKY MOVIES PREMIERE HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/733.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: SKY MOVIES SELECT HD" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/channel-logo-sky-movies-select.png" group-title="Usa",USA: SKY MOVIES SELECT HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/742.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: SKY MOVIES THRILLER HD" tvg-logo="http://static.video.sky.com/posterframes/skychbskymovies.jpg" group-title="Usa",USA: SKY MOVIES THRILLER HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/739.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: TNT HD" tvg-logo="http://iptveiksprivado.com/Logos/TNT-HD.png" group-title="Usa",USA: TNT HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/582.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: BASKET UNI.(Oregon)" tvg-logo="https://s-media-cache-ak0.pinimg.com/236x/23/de/25/23de25423e6e744150cdaa3f949d1073.jpg" group-title="Usa",USA: BASKET UNI.(Oregon)
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1509.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: BASKET UNI.(Moutain)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f1/Mountain_West_Basketball_Championships_logo_new_for_2013.jpg" group-title="Usa",USA: BASKET UNI.(Moutain)
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1508.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: BASKET UNI.(Los Angeles)" tvg-logo="http://x.pac-12.com/sites/default/files/styles/homepage_featured/public/basketball%20image.jpg?itok=TDWepFID" group-title="Usa",USA: BASKET UNI.(Los Angeles)
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1507.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: BASKET UNI.(Arizona)" tvg-logo="https://s-media-cache-ak0.pinimg.com/236x/56/32/91/56329107faafda407525584f7799eb2d.jpg" group-title="Usa",USA: BASKET UNI.(Arizona)
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1506.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: BEIN SPORTS  HD" tvg-logo="http://iptveiksprivado.com/Logos/BeingSport.png" group-title="Usa",USA: BEIN SPORTS  HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/170.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: BOX NATION HD" tvg-logo="https://pbs.twimg.com/profile_images/523395738181439488/ZSdNbxJ3_400x400.png" group-title="Usa",USA: BOX NATION HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/369.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ESPN HD" tvg-logo="http://iptveiksprivado.com/Logos/ESPN-HD.png" group-title="Usa",USA: ESPN HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/585.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: EUROSPORT" tvg-logo="http://2.bp.blogspot.com/-hU13BnqZ2lE/UgWEyRdj_SI/AAAAAAAABN0/JfVIlRTSc9c/h230/eurosport+live.png" group-title="Usa",USA: EUROSPORT
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1505.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX SPORT 1 HD" tvg-logo="http://a.fssta.com/content/dam/fsdigital/fscom/Buzzer/Images/2014/02/01/020114-13-FS1-FOX-SPORTS-1-LOGO-OB-PI.vresize.1200.675.high.18.jpg" group-title="Usa",USA: FOX SPORT 1 HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/775.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX SPORT 2 HD" tvg-logo="http://4.bp.blogspot.com/-Jro2j6oneWU/UzHah3xwE3I/AAAAAAAAAZA/mB4gz-3IqMc/s1600/1977319_517502378366782_342421131_n.png" group-title="Usa",USA: FOX SPORT 2 HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/774.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: MLB NETWORK HD" tvg-logo="https://f5.com/Portals/1/Users/036/92/141092/logo-mlb-network.png" group-title="Usa",USA: MLB NETWORK HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/783.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBA TV" tvg-logo="http://www.cutcabletoday.com/wp-content/uploads/2015/03/NBA-logo.png" group-title="Usa",USA: NBA TV
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/594.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC GOLF" tvg-logo="http://www.blackenterprise.com/wp-content/blogs.dir/1/files/2013/12/new_golf_channel_logo_304.jpg" group-title="Usa",USA: NBC GOLF
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1502.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NFL HD" tvg-logo="http://www.blogandtackle.net/wp-content/uploads/2011/08/NFLNetworkLogo.jpg" group-title="Usa",USA: NFL HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/592.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: VIASAT GOLF HD" tvg-logo="http://teetime.dk/wp-content/uploads/2015/07/ViasatGolf_620x400.jpg" group-title="Usa",USA: VIASAT GOLF HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/395.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: WWE HD" tvg-logo="http://i.wwe9.com/f/styles/ep_trending/public/section/thumb/2014/02/20140102_EPLIGHT_Network_Announcement_nodate_C.jpg" group-title="Usa",USA: WWE HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/591.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: A&E HD" tvg-logo="http://iptveiksprivado.com/Logos/A&E.png" group-title="Usa",USA: A&E HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/562.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC NEWS" tvg-logo="http://thegroundtruthproject.org/wp-content/uploads/2015/09/abc_news_logo-300x112.jpg" group-title="Usa",USA: ABC NEWS
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1516.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS" tvg-logo="http://1.bp.blogspot.com/-M8nye-TxX6M/UGbSZiAxapI/AAAAAAAACSI/_T3yV5sehEA/s1600/cbs.jpg" group-title="Usa",USA: CBS
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/559.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CNN" tvg-logo="http://fortean.wdfiles.com/local--resized-images/feeds%3Acnn-world-news/cnn/medium.jpg" group-title="Usa",USA: CNN
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1589.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/TLC-HD_Logo_Germany.png" group-title="Usa",USA: TLC
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/567.ts
+#EXTINF:-1 tvg-id="" tvg-name="==== CANALES ESPAÑA ====" tvg-logo="http://iptveiksprivado.com/Logos/BanderaESP.png" group-title="España",==== CANALES ESPAÑA ====
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1647.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: BEIN LA LIGA" tvg-logo="https://static.beinconnect.es/uploads/comun/img/logos/bein-laliga-md.png" group-title="España",ES: BEIN LA LIGA
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/3750.ts
+#EXTINF:-1 tvg-id="Bein Sports ES HD" tvg-name="ES: BEIN SPORT" tvg-logo="http://assets.beinsports.com/2.6.9/images/logo-header__us-es.png" group-title="España",ES: BEIN SPORT
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/280.ts
+#EXTINF:-1 tvg-id="Bein Sports ES HD" tvg-name="ES: BEIN SPORT (opc2)" tvg-logo="http://assets.beinsports.com/2.6.11/images/logo-header__us-es.png" group-title="España",ES: BEIN SPORT (opc2)
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1674.ts
+#EXTINF:-1 tvg-id="Canal+ Deportes HD" tvg-name="ES: MOVISTAR+ DEPORTES HD" tvg-logo="http://iptveiksprivado.com/Logos/cDeportes.png" group-title="España",ES: MOVISTAR+ DEPORTES HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/288.ts
+#EXTINF:-1 tvg-id="Canal+ Deportes2 HD" tvg-name="ES: MOVISTAR+ DEPORTES 2 HD" tvg-logo="http://iptveiksprivado.com/Logos/cDeportes-2.png" group-title="España",ES: MOVISTAR+ DEPORTES 2 HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/289.ts
+#EXTINF:-1 tvg-id="Canal+ Futbol HD" tvg-name="ES: MOVISTAR+ FUTBOL" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-futbol.jpg" group-title="España",ES: MOVISTAR+ FUTBOL
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/284.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR+  GOLF" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-golf.jpg" group-title="España",ES: MOVISTAR+  GOLF
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/290.ts
+#EXTINF:-1 tvg-id="ES: CANAL+ PARTIDAZO HD" tvg-name="ES: MOVISTAR+ PARTIDAZO HD (solo partidos)" tvg-logo="http://iptveiksprivado.com/Logos/cPartidazo.png" group-title="España",ES: MOVISTAR+ PARTIDAZO HD (solo partidos)
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/279.ts
+#EXTINF:-1 tvg-id="ES: CANAL+ PARTIDAZO HD" tvg-name="ES: MOVISTAR+ PARTIDAZO HD (solo partidos) 2" tvg-logo="http://iptveiksprivado.com/Logos/cPartidazo.png" group-title="España",ES: MOVISTAR+ PARTIDAZO HD (solo partidos) 2
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/278.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL LA LIGA TV" tvg-logo="http://img.youtube.com/vi/OfyLSV1wnwo/mqdefault.jpg" group-title="España",ES: CANAL LA LIGA TV
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/518.ts
+#EXTINF:-1 tvg-id="Canal+ Toros" tvg-name="ES: MOVISTAR TOROS" tvg-logo="http://srv00.epimg.net/programacion-tv/iconos/canales/cferia.png" group-title="España",ES: MOVISTAR TOROS
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/366.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: CAZA Y PESCA HD" tvg-logo="http://www.proyectopescares.com/wp-content/uploads/2015/02/Caza-y-Pesca-Logotipo.jpg" group-title="España",ES: CAZA Y PESCA HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/819.ts
+#EXTINF:-1 tvg-id="MOVISTAR F1" tvg-name="ES: MOVISTAR F1." tvg-logo="http://i60.tinypic.com/am2iq0.png" group-title="España",ES: MOVISTAR F1.
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/368.ts
+#EXTINF:-1 tvg-id="MOVISTAR GP" tvg-name="ES: MOVISTAR MOTO GP" tvg-logo="http://images.all-free-download.com/images/graphiclarge/moto_gp_108326.jpg" group-title="España",ES: MOVISTAR MOTO GP
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/367.ts
+#EXTINF:-1 tvg-id="Real Madrid TV" tvg-name="REAL MADRID TV" tvg-logo="http://lajugadafinanciera.com/wp-content/uploads/2016/03/real-madrid-tv.jpg" group-title="España",REAL MADRID TV
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/135.ts
+#EXTINF:-1 tvg-id="Teledeporte HD" tvg-name="ES: TELEDEPORTE HD" tvg-logo="https://comunicacionydeportes.files.wordpress.com/2015/04/teledeporte.png" group-title="España",ES: TELEDEPORTE HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/286.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 1" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/m/1/1065.1447433721.png" group-title="España",ES: EUROSPORT 1
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/755.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 2" tvg-logo="http://s03.s3c.es/imag3/ecotv/moscas-g/eurosport2.png" group-title="España",ES: EUROSPORT 2
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/756.ts
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="ES: AMC HD" tvg-logo="http://4.bp.blogspot.com/-MyRDS82mfmA/UVpy9G3NZUI/AAAAAAAAZK8/d4mg7UvA3w0/s1600/AMC+logo.png" group-title="España",ES: AMC HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/253.ts
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="ES: AXN HD" tvg-logo="http://www.brandemia.org/sites/default/files/nuevo_logo_axn_2.jpg" group-title="España",ES: AXN HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/259.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: AXN WHITE HD" tvg-logo="http://4.bp.blogspot.com/-KpUSoyrTlP8/U3JCamPEzDI/AAAAAAAAbB8/QxZhQmGYJhA/s1600/AXN_White.png" group-title="España",ES: AXN WHITE HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/261.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: A3SERIES" tvg-logo="http://canaltdt.es/wp-content/uploads/2015/11/atreseries.jpg" group-title="España",ES: A3SERIES
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/229.ts
+#EXTINF:-1 tvg-id="Canal+ Accion HD" tvg-name="ES: MOVISTAR+ ACCION HD" tvg-logo="http://iptveiksprivado.com/Logos/cAccion.png" group-title="España",ES: MOVISTAR+ ACCION HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/235.ts
+#EXTINF:-1 tvg-id="Canal+ Comedia HD" tvg-name="ES: MOVISTAR+  COMEDIA HD" tvg-logo="http://iptveiksprivado.com/Logos/cComedia.png" group-title="España",ES: MOVISTAR+  COMEDIA HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/237.ts
+#EXTINF:-1 tvg-id="Canal+ DCine" tvg-name="ES: MOVISTAR+ DCINE HD" tvg-logo="http://iptveiksprivado.com/Logos/cDcine.png" group-title="España",ES: MOVISTAR+ DCINE HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/239.ts
+#EXTINF:-1 tvg-id="Canal+ Estrenos HD" tvg-name="ES: MOVISTAR+ ESTRENOS HD" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-estrenos.jpg" group-title="España",ES: MOVISTAR+ ESTRENOS HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/242.ts
+#EXTINF:-1 tvg-id="Canal+ Series Xtra HD" tvg-name="ES: MOVISTAR+ SERIES XTRA HD" tvg-logo="http://iptveiksprivado.com/Logos/cSeriesXtra.png" group-title="España",ES: MOVISTAR+ SERIES XTRA HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/246.ts
+#EXTINF:-1 tvg-id="Canal+ Series HD" tvg-name="ES: MOVISTAR+ SERIES HD" tvg-logo="http://iptveiksprivado.com/Logos/cSeries.png" group-title="España",ES: MOVISTAR+ SERIES HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/244.ts
+#EXTINF:-1 tvg-id="Canal+ Xtra HD" tvg-name="ES: MOVISTAR+  XTRA HD" tvg-logo="https://s-media-cache-ak0.pinimg.com/236x/d5/a2/1c/d5a21c7009fa4e7830b2b5ac72738d59.jpg" group-title="España",ES: MOVISTAR+  XTRA HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/248.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: FOX HD" tvg-logo="http://iptveiksprivado.com/Logos/FOX-HD.png" group-title="España",ES: FOX HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/263.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: FOX LIFE HD." tvg-logo="http://iptveiksprivado.com/Logos/FOX-LIFE-HD.png" group-title="España",ES: FOX LIFE HD.
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/265.ts
+#EXTINF:-1 tvg-id="Hollywood HD" tvg-name="ES: HOLLYWOOD HD" tvg-logo="http://iptveiksprivado.com/Logos/Hollywood.png" group-title="España",ES: HOLLYWOOD HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/251.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: PARAMOUNT" tvg-logo="http://iptveiksprivado.com/Logos/Paramount.png" group-title="España",ES: PARAMOUNT
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/249.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: SYFY HD." tvg-logo="http://iptveiksprivado.com/Logos/SYFY-HD.png" group-title="España",ES: SYFY HD.
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/267.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: TCM HD" tvg-logo="http://iptveiksprivado.com/Logos/TCM-HD.png" group-title="España",ES: TCM HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/255.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: TNT HD" tvg-logo="http://iptveiksprivado.com/Logos/TNT-HD.png" group-title="España",ES: TNT HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/257.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: DISNEY XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Disney_XD_HD.png" group-title="España",ES: DISNEY XD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/309.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: DISNEY JUNIOR" tvg-logo="http://style.shockvisual.net/wp-content/uploads/2014/11/disney-junior-logo.jpg" group-title="España",ES: DISNEY JUNIOR
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/310.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: DISNEY CHANNEL HD" tvg-logo="http://www.adweek.com/files/imagecache/node-inline-wide/outdoing-dischannel-logo-2014.jpg" group-title="España",ES: DISNEY CHANNEL HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/308.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: PANDA" tvg-logo="http://ing-sat.what.hu/images/logo-insert/satlogos/portugal/144-Canal-Panda-1.jpg" group-title="España",ES: PANDA
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1004.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: A&E" tvg-logo="http://www.cutcabletoday.com/wp-content/uploads/2015/11/AE-logo.jpg" group-title="España",ES: A&E
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/293.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: BOING" tvg-logo="http://www.boing.es/sites/boinges/themes/boing_theme/logo-es.png" group-title="España",ES: BOING
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/311.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL COCINA" tvg-logo="http://www.televalentin.com/imagenes/logos/CANAL%20COCINA__bf15bab990.png" group-title="España",ES: CANAL COCINA
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/291.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: COMEDY CENTRAL" tvg-logo="http://www.chud.com//articles/content_images/17/ComedyCentralLogo.jpg" group-title="España",ES: COMEDY CENTRAL
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1012.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: COMEDY CENTRAL HD" tvg-logo="http://www.chud.com//articles/content_images/17/ComedyCentralLogo.jpg" group-title="España",ES: COMEDY CENTRAL HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/270.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: DIVINITY" tvg-logo="https://yosoyaletorro.files.wordpress.com/2011/08/divinity.jpg?w=300" group-title="España",ES: DIVINITY
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/231.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: DISCOVERY CHANNEL HD" tvg-logo="http://logok.org/wp-content/uploads/2014/04/Discovery-Channel-logo.png" group-title="España",ES: DISCOVERY CHANNEL HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/294.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: DISCOVERY SCIENCE" tvg-logo="http://tvimages.burrp.com/images/channels2/Documentary/Discovery-Science.png" group-title="España",ES: DISCOVERY SCIENCE
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/292.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: HISTORIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/Hstra.png" group-title="España",ES: HISTORIA
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/296.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: NATIONAL GEOGRAPHIC HD." tvg-logo="http://images.nationalgeographic.com/wpf/sites/common/i/presentation/NGLogo560x430-cb1343821768.png" group-title="España",ES: NATIONAL GEOGRAPHIC HD.
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/300.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: NAT GEO WILD HD" tvg-logo="http://mms.businesswire.com/media/20160307006388/en/447793/5/NatGeoWild_RGB_black.jpg" group-title="España",ES: NAT GEO WILD HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/302.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: NONSTOP PEOPLE." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Logo_d%C3%A9riv%C3%A9_Non_Stop_People.png/188px-Logo_d%C3%A9riv%C3%A9_Non_Stop_People.png" group-title="España",ES: NONSTOP PEOPLE.
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/274.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: VIAJAR HD" tvg-logo="http://ilovetheworld.es/wp-content/uploads/2013/12/canal-viajar.jpg" group-title="España",ES: VIAJAR HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/295.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: #O HD" tvg-logo="http://www.valdemoro24.com/images/articles/16/16226t.jpg" group-title="España",ES: #O HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/233.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: 40 TV" tvg-logo="http://www.mundoplus.tv/img/90691175c9b9869e59b13e76f7d73870" group-title="España",ES: 40 TV
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/314.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: ANDALUCIA TV" tvg-logo="http://www.blaguemultimedia.com/wp-content/uploads/2014/12/logo-Andalucia-Television.png" group-title="España",ES: ANDALUCIA TV
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1427.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: ANTENA 3 int." tvg-logo="http://www.antena3.com/public/img/antena3/apple-touch-icon-180x180.png" group-title="España",ES: ANTENA 3 int.
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/219.ts
+#EXTINF:-1 tvg-id="Antena 3" tvg-name="ES: ANTENA 3 HD" tvg-logo="http://iptveiksprivado.com/Logos/Antena3.png" group-title="España",ES: ANTENA 3 HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/220.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: CALLE 13 HD" tvg-logo="http://icons.alphacs.tv/icons1/sp/calle13_universal.png" group-title="España",ES: CALLE 13 HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/269.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: ENERGY" tvg-logo="http://vercanalestv.com/logos/energy.png" group-title="España",ES: ENERGY
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/321.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: FDF" tvg-logo="http://tvinfancia.es/tvinfancia/sites/default/files/bolafactoria.png" group-title="España",ES: FDF
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/230.ts
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="ES: LA 1 HD" tvg-logo="https://www.ono.es/ono-resources/img/products-web/logos_parrilla_tv/img_logo_la1_hd.png" group-title="España",ES: LA 1 HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/217.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 2" tvg-logo="https://pbs.twimg.com/profile_images/322579325/tve2_400x400.png" group-title="España",ES: LA 2
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/218.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA SEXTA HD" tvg-logo="http://i55.tinypic.com/in5qux.jpg" group-title="España",ES: LA SEXTA HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/226.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: MEGA" tvg-logo="http://www.cineytele.com/wp-content/uploads/2015/05/Mega-nuevo-canal-Atresmedia-300x199.jpg" group-title="España",ES: MEGA
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/227.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: NEOX" tvg-logo="http://start-vpn.com/blog-espana/wp-content/uploads/2013/05/neox-espana-small.jpg" group-title="España",ES: NEOX
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/228.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: NOVA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/245px-Nova.svg.png" group-title="España",ES: NOVA
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1431.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: ODISEA HD" tvg-logo="http://amcnetworks.es/wp-content/uploads/2010/04/0906_odisea.jpg" group-title="España",ES: ODISEA HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/297.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: RT" tvg-logo="http://www.watchallchannels.com/wp-content/uploads/2015/02/rt-tv.jpg" group-title="España",ES: RT
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1158.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: RADIO 105" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cf/Radio_105_Network.png" group-title="España",ES: RADIO 105
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/365.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: RADIO MONTECARLO TV" tvg-logo="http://ulango.tv/uploads/channels/3780903/logo_radio%20montecarlo%20tv.png" group-title="España",ES: RADIO MONTECARLO TV
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/946.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: TELECINCO HD" tvg-logo="http://www.formulatv.com/fotos/a/9000/9225/t6v64j6ltln3iuajnv52a8c3f52f070_telemierda-5-hd.png" group-title="España",ES: TELECINCO HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/224.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: VIRGIN TV" tvg-logo="http://4.bp.blogspot.com/-NDbC_ibHNGk/UemMpgWp8hI/AAAAAAAABMM/YlyClDbL4Do/w260/virgin_tv_0_1.png" group-title="España",ES: VIRGIN TV
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/319.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M6 MUSIC." tvg-logo="https://pbs.twimg.com/profile_images/755308717697069056/t2LxXmYx.jpg" group-title="España",ES: M6 MUSIC.
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/320.ts
+#EXTINF:-1 tvg-id="" tvg-name="==== CANALES ITALIA ====" tvg-logo="http://iptveiksprivado.com/Logos/BanderaIT.png" group-title="Italia",==== CANALES ITALIA ====
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1648.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY CINEMA  PASSION HD" tvg-logo="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/6581_home.png" group-title="Italia",IT: SKY CINEMA  PASSION HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1167.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY CINEMA HITS HD" tvg-logo="http://www.lospettacolo.it/img/logos/sky169.png" group-title="Italia",IT: SKY CINEMA HITS HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1166.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI 1 HD" tvg-logo="http://nowwatchtvlive.co/wp-content/uploads/2012/06/Rai-1.jpeg" group-title="Italia",IT: RAI 1 HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/328.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIMA FILA 1  HD" tvg-logo="http://iptveiksprivado.com/Logos/PrimafilaFilm.png" group-title="Italia",IT: PRIMA FILA 1  HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1164.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: PREMIUN CALCIO HD" tvg-logo="http://www.frosat.net/images/logotv/original/sky-supercalcio-hd.jpg" group-title="Italia",IT: PREMIUN CALCIO HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/338.ts
+#EXTINF:-1 tvg-id="" tvg-name="==== CANALES ALEMANIA ====" tvg-logo="http://iptveiksprivado.com/Logos/BanderaDE.png" group-title="Alemania",==== CANALES ALEMANIA ====
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1649.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Super RTL" tvg-logo="http://logos-vector.com/images/logo/xxl/5/9/4/59427/Super_RTL_c9d0c_450x450.png" group-title="Alemania",DE: Super RTL
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1176.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sport1+ HD" tvg-logo="https://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/072015/sport1.png" group-title="Alemania",DE: Sport1+ HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1177.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY HITS" tvg-logo="http://iptveiksprivado.com/Logos/SkyHits.png" group-title="Alemania",DE: SKY HITS
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1174.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY BUNDESLIGA 1 HD" tvg-logo="http://iptveiksprivado.com/Logos/Bundesliga.png" group-title="Alemania",DE: SKY BUNDESLIGA 1 HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1173.ts
+#EXTINF:-1 tvg-id="" tvg-name="==== CANALES REINO UNIDO ====" tvg-logo="http://iptveiksprivado.com/Logos/BanderaUK.png" group-title="Reino-Unido",==== CANALES REINO UNIDO ====
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1650.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK:  MOTORS" tvg-logo="http://vercanalestv.com/imagenes/motorstv.jpg" group-title="Reino-Unido",UK:  MOTORS
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1172.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY LIVING" tvg-logo="https://www.comedy.co.uk/images/library/comedies/300/c/channel_sky_living.jpg" group-title="Reino-Unido",UK: SKY LIVING
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1171.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: HISTORY" tvg-logo="http://iptveiksprivado.com/Logos/HISTORY-HD.png" group-title="Reino-Unido",UK: HISTORY
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1170.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT ESPN HD" tvg-logo="http://iptveiksprivado.com/Logos/BT-SPORT-ESPN.png" group-title="Reino-Unido",UK: BT SPORT ESPN HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1168.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT EUROPE HD" tvg-logo="http://iptveiksprivado.com/Logos/bt_sport_europe.png" group-title="Reino-Unido",UK: BT SPORT EUROPE HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/758.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK:5 STAR" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/channel5_star.jpg" group-title="Reino-Unido",UK:5 STAR
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1169.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: MUTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="Reino-Unido",UK: MUTV
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/757.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORT 2 HD" tvg-logo="http://1.bp.blogspot.com/-mHQcX1XWn8c/VOjDYC6WFcI/AAAAAAAACx4/NC60cTkN5hM/s1600/Sky_Sports_2_2010.png" group-title="Reino-Unido",UK: SKY SPORT 2 HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/761.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORT 3 HD" tvg-logo="http://www.skysports.com/core/img/channels/Sky-Sports-3-Logo.png" group-title="Reino-Unido",UK: SKY SPORT 3 HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/762.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORT  5 HD" tvg-logo="http://www.skysports.com/core/img/channels/Sky-Sports-5-Logo.png" group-title="Reino-Unido",UK: SKY SPORT  5 HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/764.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: DISNEY JUNIOR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/Disney_Junior_Logo.png" group-title="Reino-Unido",UK: DISNEY JUNIOR HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/398.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: DISNEY CHANNEL HD" tvg-logo="http://img3.wikia.nocookie.net/__cb20140712184013/logopedia/images/3/38/DISNEY_CHANNEL_HD_2014.png" group-title="Reino-Unido",UK: DISNEY CHANNEL HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/602.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: DISNEY XD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Disney_XD_HD.png" group-title="Reino-Unido",UK: DISNEY XD HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/604.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: NICK JUNIOR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/Nick_Jr._HD.png" group-title="Reino-Unido",UK: NICK JUNIOR HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/601.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: BBC NEWS 24" tvg-logo="http://www.newtvworld.com/Images/bbc-news-logo.jpg" group-title="Reino-Unido",UK: BBC NEWS 24
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/637.ts
+#EXTINF:-1 tvg-id="" tvg-name="==== CANALES FRANCIA ====" tvg-logo="http://iptveiksprivado.com/Logos/BanderaFR.png" group-title="Francia",==== CANALES FRANCIA ====
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/448.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT 3" tvg-logo="http://4.bp.blogspot.com/-HbSfFircP3Y/Uu_QaGjSz8I/AAAAAAAAAhA/37sKd8qQapE/s1600/bein+sport+3.png" group-title="Francia",FR: BEIN SPORT 3
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1021.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ SPORT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal%2B_Sport_2015.png/250px-Canal%2B_Sport_2015.png" group-title="Francia",FR: CANAL+ SPORT HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/521.ts
+#EXTINF:-1 tvg-id="" tvg-name="==== CANALES PORTUGAL ====" tvg-logo="http://www.banderas.pro/banderas/bandera-portugal-3.jpg" group-title="Portugal",==== CANALES PORTUGAL ====
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/3745.ts
+#EXTINF:-1 tvg-id="" tvg-name="PORTUGAL - RTP1" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtp1_positivo.jpg" group-title="Portugal",PORTUGAL - RTP1
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1128.ts
+#EXTINF:-1 tvg-id="" tvg-name="BRASIL - ALL SPORT" tvg-logo="" group-title="Brasil",BRASIL - ALL SPORT
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/5498.ts
+#EXTINF:-1 tvg-id="" tvg-name="BRASIL - BH NEWS TV" tvg-logo="" group-title="Brasil",BRASIL - BH NEWS TV
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/5497.ts
+#EXTINF:-1 tvg-id="" tvg-name="BRASIL - CENTRAL TV" tvg-logo="" group-title="Brasil",BRASIL - CENTRAL TV
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/5496.ts
+#EXTINF:-1 tvg-id="" tvg-name="BRASIL - CONEX" tvg-logo="" group-title="Brasil",BRASIL - CONEX
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/5495.ts
+#EXTINF:-1 tvg-id="" tvg-name="BRASIL - FISH TV" tvg-logo="" group-title="Brasil",BRASIL - FISH TV
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/5494.ts
+#EXTINF:-1 tvg-id="" tvg-name="BRASIL - REDE" tvg-logo="" group-title="Brasil",BRASIL - REDE
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/5490.ts
+#EXTINF:-1 tvg-id="" tvg-name="BRASIL - REDE GLOBO" tvg-logo="" group-title="Brasil",BRASIL - REDE GLOBO
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/5493.ts
+#EXTINF:-1 tvg-id="" tvg-name="BRASIL - REDE GOSPEL" tvg-logo="" group-title="Brasil",BRASIL - REDE GOSPEL
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/5499.ts
+#EXTINF:-1 tvg-id="" tvg-name="BRASIL - REDE MINAS" tvg-logo="" group-title="Brasil",BRASIL - REDE MINAS
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/5492.ts
+#EXTINF:-1 tvg-id="" tvg-name="BRASIL - REDE NOTICIAS" tvg-logo="" group-title="Brasil",BRASIL - REDE NOTICIAS
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/5491.ts
+#EXTINF:-1 tvg-id="" tvg-name="BRASIL - TV BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/TV_Brasil_logo.png/260px-TV_Brasil_logo.png" group-title="Brasil",BRASIL - TV BRASIL
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1044.ts
+#EXTINF:-1 tvg-id="" tvg-name="BRASIL - TV BRATESDA" tvg-logo="" group-title="Brasil",BRASIL - TV BRATESDA
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/5489.ts
+#EXTINF:-1 tvg-id="" tvg-name="VENEZUELA - VTV" tvg-logo="http://www.fulltelevisionhd.net/wp-content/uploads/2015/02/VTV.png" group-title="Internacionales",VENEZUELA - VTV
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/929.ts
+#EXTINF:-1 tvg-id="" tvg-name="==== CANALES 24/7 ====" tvg-logo="" group-title="24/7HD",==== CANALES 24/7 ====
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/529.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALF SD 24/7" tvg-logo="http://www.schnittberichte.com/pics/SBs/200/165315/e_cover.jpg" group-title="24/7HD",ALF SD 24/7
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/5606.ts
+#EXTINF:-1 tvg-id="" tvg-name="BOB ESPONGA HD 24/7" tvg-logo="http://1.bp.blogspot.com/_WeFdjIzPzlU/TBEkYhJ7NKI/AAAAAAAAAEw/PYahF3vymfo/s320/bob-esponja.png" group-title="24/7HD",BOB ESPONGA HD 24/7
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/713.ts
+#EXTINF:-1 tvg-id="" tvg-name="BOB'S BURGERS HD 24/7" tvg-logo="https://tvfiles.alphacoders.com/487/poster-thumb-487.jpg" group-title="24/7HD",BOB'S BURGERS HD 24/7
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/522.ts
+#EXTINF:-1 tvg-id="" tvg-name="BRICKLEBERRY HD 24/7" tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/3b/79/1e/3b791e5c775383ca914371548be2be78.jpg" group-title="24/7HD",BRICKLEBERRY HD 24/7
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/5607.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DISNEY HD 24/7" tvg-logo="http://www.espanarusa.com/files/autoupload/27/58/5/gsrcnzup44554.jpg" group-title="24/7HD",CANAL DISNEY HD 24/7
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/5608.ts
+#EXTINF:-1 tvg-id="" tvg-name="DINOSAURIOS SD 24/7" tvg-logo="http://4.bp.blogspot.com/-v0oj0vE0bhY/Vds_F5FCYOI/AAAAAAAABCI/ZfXjzf_5dDI/s1600/Dinosaurios.png" group-title="24/7HD",DINOSAURIOS SD 24/7
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/5618.ts
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL HD 24/7" tvg-logo="http://www.oocities.org/hawk-taylor/DB1Cover.jpg" group-title="24/7HD",DRAGON BALL HD 24/7
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/5626.ts
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL Z  HD 24/7" tvg-logo="http://www.animeyes.com/wp-content/uploads/2016/12/Dragon-Ball-Z.jpg" group-title="24/7HD",DRAGON BALL Z  HD 24/7
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/561.ts
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SUPER HD  24/7" tvg-logo="http://images4.static-bluray.com/movies/covers/162809_large.jpg" group-title="24/7HD",DRAGON BALL SUPER HD  24/7
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/5609.ts
+#EXTINF:-1 tvg-id="" tvg-name="EL CHAVO DEL 8 SD 24/7" tvg-logo="https://www.cinematerial.com/media/posters/sm/kd/kduqgadp.jpg" group-title="24/7HD",EL CHAVO DEL 8 SD 24/7
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/5613.ts
+#EXTINF:-1 tvg-id="" tvg-name="EL CHAPULIN COLORADO SD 24/7" tvg-logo="http://www.qserie.com/files/uploads/4766.jpg" group-title="24/7HD",EL CHAPULIN COLORADO SD 24/7
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/743.ts
+#EXTINF:-1 tvg-id="" tvg-name="EL PRINCIPE DE BEL-AIR SD 24/7" tvg-logo="https://image.tmdb.org/t/p/w185/qQCbe0QwS0FKBOwMdf6MblJbqst.jpg" group-title="24/7HD",EL PRINCIPE DE BEL-AIR SD 24/7
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/665.ts
+#EXTINF:-1 tvg-id="" tvg-name="FAMILY GUY HD 24/7" tvg-logo="http://www.schnittberichte.com/www/SBs/2603691/e_cover.jpg" group-title="24/7HD",FAMILY GUY HD 24/7
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/721.ts
+#EXTINF:-1 tvg-id="" tvg-name="FAMILIA PELUCHE SD 24/7" tvg-logo="http://www.gratisteve.com/files/uploads/636.jpg" group-title="24/7HD",FAMILIA PELUCHE SD 24/7
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/716.ts
+#EXTINF:-1 tvg-id="" tvg-name="FUTURAMA HD 24/7" tvg-logo="http://4.bp.blogspot.com/-ObyulZATAOs/UcL6MeudRiI/AAAAAAAACDw/NhHWmbwurvw/s330/Futurama.jpeg" group-title="24/7HD",FUTURAMA HD 24/7
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/548.ts
+#EXTINF:-1 tvg-id="" tvg-name="HAJIME NO IPPO HD 24/7" tvg-logo="http://cdn.jkanime.net/assets/images/animes/image/hajime-no-ippo.jpg" group-title="24/7HD",HAJIME NO IPPO HD 24/7
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/5625.ts
+#EXTINF:-1 tvg-id="" tvg-name="KING OF THE HILL SD 24/7" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51wwY-S2%2B5L._SY450_.jpg" group-title="24/7HD",KING OF THE HILL SD 24/7
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/628.ts
+#EXTINF:-1 tvg-id="" tvg-name="LOS CABALLEROS DEL ZODIACO HD 24/7" tvg-logo="http://static.rbcasting.com/i-cavalieri-dello-zodiaco-locandina-poster-201452672-209x300.jpg" group-title="24/7HD",LOS CABALLEROS DEL ZODIACO HD 24/7
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/5689.ts
+#EXTINF:-1 tvg-id="" tvg-name="LOS SIMPSONS HD 24/7" tvg-logo="http://cdn.foxplay.com/sites/foxplay-la/files/img/440x660/440x660-series-los_simpson.jpg" group-title="24/7HD",LOS SIMPSONS HD 24/7
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/618.ts
+#EXTINF:-1 tvg-id="" tvg-name="LOS SUPER CAMPEONES SD 24/7" tvg-logo="http://izozog.com/soyviejo/media/blogs/CAM/supercampeonesJ.jpg" group-title="24/7HD",LOS SUPER CAMPEONES SD 24/7
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/574.ts
+#EXTINF:-1 tvg-id="" tvg-name="LOS TRES CHIFLADOS SD 24/7" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71-GoSkDQiL._SL1204_.jpg" group-title="24/7HD",LOS TRES CHIFLADOS SD 24/7
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/539.ts
+#EXTINF:-1 tvg-id="" tvg-name="MACGYVER SD 24/7" tvg-logo="http://1.bp.blogspot.com/-vrKKAEzaHJE/VhVZvG4v5MI/AAAAAAAACtk/IlDMBWlQGd8/s640/mcgyver-el-tesoro-perdido-de-atlantis.jpg" group-title="24/7HD",MACGYVER SD 24/7
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/523.ts
+#EXTINF:-1 tvg-id="" tvg-name="MALCOLM  SD 24/7" tvg-logo="https://s-media-cache-ak0.pinimg.com/236x/72/0a/60/720a60fe13b0df99884f8d587bb8f4f8.jpg" group-title="24/7HD",MALCOLM  SD 24/7
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/5629.ts
+#EXTINF:-1 tvg-id="" tvg-name="MR. BEAN SD 24/7" tvg-logo="http://www.seriespapaya.com/uploads/Mr-Bean0.jpg" group-title="24/7HD",MR. BEAN SD 24/7
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/683.ts
+#EXTINF:-1 tvg-id="" tvg-name="PATOAVENTURAS SD 24/7" tvg-logo="http://1.bp.blogspot.com/-T3Cj4AbNHj4/VU6Gxot7DEI/AAAAAAAAtYs/OuGiGQcVVmQ/s1600/02-Portada.jpg" group-title="24/7HD",PATOAVENTURAS SD 24/7
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/569.ts
+#EXTINF:-1 tvg-id="" tvg-name="POCOYO SD 24/7" tvg-logo="http://i43.tower.com/images/mm123805274/pocoyo-pocoyos-world-dvd-cover-art.jpg" group-title="24/7HD",POCOYO SD 24/7
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/5627.ts
+#EXTINF:-1 tvg-id="" tvg-name="RANMA 1/2 HD 24/7" tvg-logo="http://i94.photobucket.com/albums/l115/Skellor/ranma_cover_zpsad52a20a.jpg" group-title="24/7HD",RANMA 1/2 HD 24/7
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/5628.ts
+#EXTINF:-1 tvg-id="" tvg-name="SCOOBY DOO HD 24/7" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51UXtYQnsRL.jpg" group-title="24/7HD",SCOOBY DOO HD 24/7
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/625.ts
+#EXTINF:-1 tvg-id="" tvg-name="SIMPSON NEW" tvg-logo="http://iptveiksprivado.com/Logos/SKY-SPORT-SK.png" group-title="24/7HD",SIMPSON NEW
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/5488.ts
+#EXTINF:-1 tvg-id="" tvg-name="SOUTH PARK HD 24/7" tvg-logo="http://image.tvlinks.cc/tvshows/1997/tt0121955_1.jpg" group-title="24/7HD",SOUTH PARK HD 24/7
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/651.ts
+#EXTINF:-1 tvg-id="" tvg-name="THE A-TEAM SD 24/7" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91ZKYg2mkNL._AC_UL320_SR226,320_.jpg" group-title="24/7HD",THE A-TEAM SD 24/7
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/635.ts
+#EXTINF:-1 tvg-id="" tvg-name="WWE HD 24/7" tvg-logo="https://lh4.googleusercontent.com/-mQceZuqhIRA/AAAAAAAAAAI/AAAAAAAAAGg/6mpudb5GwmU/photo.jpg" group-title="24/7HD",WWE HD 24/7
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/697.ts
+#EXTINF:-1 tvg-id="" tvg-name="AZTECA CINEMA 1080p" tvg-logo="http://iptveiksprivado.com/Logos/AZTECA-CINEMA-HD.png" group-title="1080p-Mexico",AZTECA CINEMA 1080p
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/963.ts
+#EXTINF:-1 tvg-id="" tvg-name="==== CANALES 1080p (world)====" tvg-logo="http://iptveiksprivado.com/Logos/full-hd.png" group-title="1080p-World",==== CANALES 1080p (world)====
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/3753.ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD 1080p" tvg-logo="http://iptveiksprivado.com/Logos/AXN-HD.png" group-title="1080p-World",AXN HD 1080p
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1223.ts
+#EXTINF:-1 tvg-id="Cinecanal HD" tvg-name="CINECANAL+ HD 1080p" tvg-logo="http://iptveiksprivado.com/Logos/CINECANAL+HD.png" group-title="1080p-World",CINECANAL+ HD 1080p
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1236.ts
+#EXTINF:-1 tvg-id="Cinemax (O)" tvg-name="CINEMAX HD 1080p" tvg-logo="http://iptveiksprivado.com/Logos/CINEMAX-HD.png" group-title="1080p-World",CINEMAX HD 1080p
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/709.ts
+#EXTINF:-1 tvg-id="FX HD" tvg-name="FX HD 1080p" tvg-logo="http://iptveiksprivado.com/Logos/FX-HD.png" group-title="1080p-World",FX HD 1080p
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1221.ts
+#EXTINF:-1 tvg-id="Fox Action HD" tvg-name="FOX ACTION HD 1080p" tvg-logo="http://iptveiksprivado.com/Logos/FOX-ACTION-HD.png" group-title="1080p-World",FOX ACTION HD 1080p
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1234.ts
+#EXTINF:-1 tvg-id="Fox Movies HD" tvg-name="FOX MOVIES HD 1080p" tvg-logo="http://iptveiksprivado.com/Logos/FOX-MOVIES-HD.png" group-title="1080p-World",FOX MOVIES HD 1080p
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1235.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX SERIES HD 1080p" tvg-logo="http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-channels/fox1-hd.png" group-title="1080p-World",FOX SERIES HD 1080p
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/5486.ts
+#EXTINF:-1 tvg-id="Space HD" tvg-name="SPACE HD 1080p" tvg-logo="http://iptveiksprivado.com/Logos/SPACE-HD.png" group-title="1080p-World",SPACE HD 1080p
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1137.ts
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD 1080" tvg-logo="http://iptveiksprivado.com/Logos/TNT-HD.png" group-title="1080p-World",TNT HD 1080
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1237.ts
+#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT SERIES HD 1080p" tvg-logo="http://iptveiksprivado.com/Logos/TNT-SERIES-HD.png" group-title="1080p-World",TNT SERIES HD 1080p
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1229.ts
+#EXTINF:-1 tvg-id="Universal HD" tvg-name="UNIVERSAL CHANNEL HD 1080p" tvg-logo="http://iptveiksprivado.com/Logos/UNIVERSAL-CHANNEL-HD.png" group-title="1080p-World",UNIVERSAL CHANNEL HD 1080p
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1220.ts
+#EXTINF:-1 tvg-id="Warner HD" tvg-name="WARNER CHANNEL HD 1080p" tvg-logo="http://iptveiksprivado.com/Logos/WARNER-CHANNEL-HD.png" group-title="1080p-World",WARNER CHANNEL HD 1080p
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1219.ts
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E HD 1080p" tvg-logo="http://iptveiksprivado.com/Logos/A&E.png" group-title="1080p-World",A&E HD 1080p
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1222.ts
+#EXTINF:-1 tvg-id="History Channel HD" tvg-name="HISTORY HD 1080p" tvg-logo="http://iptveiksprivado.com/Logos/Discovery-theater.png" group-title="1080p-World",HISTORY HD 1080p
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1214.ts
+#EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-name="COMEDY CENTRAL HD 1080p" tvg-logo="http://iptveiksprivado.com/Logos/COMEDY-CENTRAL-HD.png" group-title="1080p-World",COMEDY CENTRAL HD 1080p
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1225.ts
+#EXTINF:-1 tvg-id="TRU TV" tvg-name="TRU TV HD 1080p" tvg-logo="http://iptveiksprivado.com/Logos/trueTV-HD.png" group-title="1080p-World",TRU TV HD 1080p
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1224.ts
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN HD 1080p" tvg-logo="http://iptveiksprivado.com/Logos/ESPN-HD.png" group-title="1080p-World",ESPN HD 1080p
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/584.ts
+#EXTINF:-1 tvg-id="Fox" tvg-name="FOX HD 1080p" tvg-logo="http://iptveiksprivado.com/Logos/FOX-HD.png" group-title="1080p-World",FOX HD 1080p
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1218.ts
+#EXTINF:-1 tvg-id="Fox Sports HD" tvg-name="FOX SPORT HD (1080)" tvg-logo="http://iptveiksprivado.com/Logos/FOX-SPORT-HD.png" group-title="1080p-World",FOX SPORT HD (1080)
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1245.ts
+#EXTINF:-1 tvg-id="Fox Sports 2 HD" tvg-name="FOX SPORT 2 HD 1080p" tvg-logo="http://iptveiksprivado.com/Logos/FOX-SPORT2-HD.png" group-title="1080p-World",FOX SPORT 2 HD 1080p
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1605.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: BEIN LA LIGA 1080p" tvg-logo="http://www.gartel.es/canales/beinliga.jpg" group-title="1080p-World",ES: BEIN LA LIGA 1080p
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/3752.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: COSMO HD" tvg-logo="http://farm6.static.flickr.com/5050/5372194459_2c1ea137ab.jpg" group-title="1080p-World",ES: COSMO HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/272.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: CUATRO HD" tvg-logo="http://3.bp.blogspot.com/-LKNVnzeViws/T5may9eLNlI/AAAAAAAAAfg/J4IFbpwAg5Q/s1600/cuatro_hd_logo.png" group-title="1080p-World",ES: CUATRO HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/222.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR COMEDIA HD 1080p" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-comedia.jpg" group-title="1080p-World",ES: MOVISTAR COMEDIA HD 1080p
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/236.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: NICKELODEON HD" tvg-logo="http://cdn.playbuzz.com/cdn/894dc8a1-1998-4d1b-9199-2dbad00a37b9/aa7be833-8f67-47ad-84cf-0dc7eb0a16f9.jpg" group-title="1080p-World",ES: NICKELODEON HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/304.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: TVM 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_TVM3_2015.png/250px-Logo_TVM3_2015.png" group-title="1080p-World",ES: TVM 3
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/318.ts
+#EXTINF:-1 tvg-id="" tvg-name="SURVIVOR SERIES WWE NETWORK HD 1080p" tvg-logo="https://s-media-cache-ak0.pinimg.com/236x/62/7a/ef/627aef5ea5c8d4b746a0d03f6eef1aa7.jpg" group-title="1080p-World",SURVIVOR SERIES WWE NETWORK HD 1080p
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/3995.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT 1 HD" tvg-logo="http://iptveiksprivado.com/Logos/BT-Sport-1-HD.png" group-title="1080p-World",UK: BT SPORT 1 HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/766.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT 2 HD" tvg-logo="http://iptveiksprivado.com/Logos/BT-Sport-2-HD.png" group-title="1080p-World",UK: BT SPORT 2 HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/767.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: PREMIERE SPORT HD" tvg-logo="http://ascast.com/wp-content/uploads/2015/06/Premier-Sports.jpg" group-title="1080p-World",UK: PREMIERE SPORT HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/956.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC SPORT NETWORK HD" tvg-logo="http://blogs-images.forbes.com/greatspeculations/files/2012/01/300px-NBC-Sports-Network-Logo_bla.grid-5x2.jpg" group-title="Usa",USA: NBC SPORT NETWORK HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/597.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: PAC-12 Net. (Washington) 1080p" tvg-logo="http://static.pac-12.com/images/logos/pac-12-washington-logo.png" group-title="1080p-World",USA: PAC-12 Net. (Washington) 1080p
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1501.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: PAC-12 Net. (Oregon) 10800p" tvg-logo="http://static.pac-12.com/images/logos/pac-12-oregon-logo.png" group-title="1080p-World",USA: PAC-12 Net. (Oregon) 10800p
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1500.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: PAC-12 Net. (Los Angeles) 1080p" tvg-logo="http://watchtv.gq/wp-content/uploads/2016/03/pac-12-losangeles-logo-1-300x300.png" group-title="1080p-World",USA: PAC-12 Net. (Los Angeles) 1080p
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1499.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: PAC-12 Net. (Bay Area) 1080p" tvg-logo="http://static.pac-12.com/images/logos/pac-12-bayarea-logo.png" group-title="1080p-World",USA: PAC-12 Net. (Bay Area) 1080p
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1498.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: PAC-12 Net. (Arizona) 1080p" tvg-logo="http://static.pac-12.com/images/logos/pac-12-arizona-logo.png" group-title="1080p-World",USA: PAC-12 Net. (Arizona) 1080p
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1497.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: SPORT 1 HD" tvg-logo="http://www.hdtv-pro.de/wp-content/uploads/2012/06/sport1plus_logo.jpg" group-title="1080p-World",USA: SPORT 1 HD
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/796.ts
+#EXTINF:-1 tvg-id="" tvg-name="==== CANALES 1080p (solo para mexico o con vpn)====" tvg-logo="http://iptveiksprivado.com/Logos/full-hd.png" group-title="1080p-Mexico",==== CANALES 1080p (solo para mexico o con vpn)====
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1652.ts
+#EXTINF:-1 tvg-id="" tvg-name="NICK 2 HD 1080p" tvg-logo="http://images5.fanpop.com/image/photos/28600000/Nick2-Logo-nickelodeon-28666182-367-137.jpg" group-title="1080p-Mexico",NICK 2 HD 1080p
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/3195.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD 1080p" tvg-logo="https://www.blogcdn.com/www.engadget.com/media/2009/06/mtv-logo1515.jpg" group-title="1080p-Mexico",MTV HD 1080p
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/3194.ts
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 HD 1080p" tvg-logo="http://iptveiksprivado.com/Logos/ESPN2-HD.png" group-title="1080p-Mexico",ESPN 2 HD 1080p
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1604.ts
+#EXTINF:-1 tvg-id="ESPN 3 HD" tvg-name="ESPN 3 HD 1080p" tvg-logo="http://iptveiksprivado.com/Logos/ESPN3-HD.png" group-title="1080p-Mexico",ESPN 3 HD 1080p
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1603.ts
+#EXTINF:-1 tvg-id="MTV Live HD" tvg-name="MTV LIVE HD 1080p" tvg-logo="http://iptveiksprivado.com/Logos/MTV-LIVE.png" group-title="1080p-Mexico",MTV LIVE HD 1080p
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1558.ts
+#EXTINF:-1 tvg-id="" tvg-name="==== CANALES ADULTOS XXX ====" tvg-logo="http://iptveiksprivado.com/Logos/Adultos18.png" group-title="XXX",==== CANALES ADULTOS XXX ====
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1651.ts
+#EXTINF:-1 tvg-id="" tvg-name="BABES" tvg-logo="http://www.monicasalamanca.com/img/porfolio/logos/bigbabes.png" group-title="XXX",BABES
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/5593.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX - ANYSEX" tvg-logo="" group-title="XXX",XXX - ANYSEX
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1185.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX - BRAZZERS TV" tvg-logo="http://hackcrack.ru/wp-content/uploads/2015/12/45_brazzers_tv_.jpg" group-title="XXX",XXX - BRAZZERS TV
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1178.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX - DUSK DELUXE" tvg-logo="" group-title="XXX",XXX - DUSK DELUXE
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1186.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX - HOT" tvg-logo="" group-title="XXX",XXX - HOT
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1181.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX - PENTHOUSE TV" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Penthouse-TV-Canada_o.jpg" group-title="XXX",XXX - PENTHOUSE TV
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/2785.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX - SEXTREME" tvg-logo="http://extranet.aws.globosat.com.br/gmar/img/logos/logo_93_grande.jpg" group-title="XXX",XXX - SEXTREME
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/145.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX - JAZMIN TV" tvg-logo="" group-title="XXX",XXX - JAZMIN TV
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/161.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX - PINK EROTIC 2" tvg-logo="http://askgramps.org/files/2014/11/desire.jpg" group-title="XXX",XXX - PINK EROTIC 2
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1180.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX - PINK EROTIC 4" tvg-logo="" group-title="XXX",XXX - PINK EROTIC 4
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1182.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX - PINK EROTIC 7" tvg-logo="http://adult-channels.com/wp-content/uploads/2016/10/pink-erotic-7-logo.png" group-title="XXX",XXX - PINK EROTIC 7
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/141.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX - PORN MIX 2" tvg-logo="" group-title="XXX",XXX - PORN MIX 2
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/144.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX - PORN MIX 3" tvg-logo="" group-title="XXX",XXX - PORN MIX 3
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/146.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX - JUICE" tvg-logo="" group-title="XXX",XXX - JUICE
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/162.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX - PINK O TV" tvg-logo="" group-title="XXX",XXX - PINK O TV
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1159.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX - PLAYBOY TV" tvg-logo="http://09stream.com/img/playboy.png" group-title="XXX",XXX - PLAYBOY TV
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/142.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX - REAL" tvg-logo="" group-title="XXX",XXX - REAL
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/143.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX - PRIMAFILA HOT CLUB 7" tvg-logo="" group-title="XXX",XXX - PRIMAFILA HOT CLUB 7
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/139.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX - SIRINA 2" tvg-logo="" group-title="XXX",XXX - SIRINA 2
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1160.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX - HUSTLER TV" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Hustler-TV-Europe_o.jpg" group-title="XXX",XXX - HUSTLER TV
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1184.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX - XTSY-MO" tvg-logo="" group-title="XXX",XXX - XTSY-MO
+http://tv.latiniptvplus.com:8000/live/jeremysteffan/zc1ULP5wjJ/1183.ts
+#EXTINF:-1 tvg-id="" tvg-name="==== VOD XXX ====" tvg-logo="http://iptveiksprivado.com/Logos/Adultos18.png" group-title="Vod-XXX",==== VOD XXX ====
+http://tv.latiniptvplus.com:8000/movie/jeremysteffan/zc1ULP5wjJ/4351.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DIRTY MASSEUR 11 XXX" tvg-logo="http://streamporn.net/wp-content/uploads/2016/04/Dirty-Masseur-10.jpeg" group-title="Vod-XXX",DIRTY MASSEUR 11 XXX
+http://tv.latiniptvplus.com:8000/movie/jeremysteffan/zc1ULP5wjJ/2150.mkv
+#EXTINF:-1 tvg-id="" tvg-name="JAMES DEEN´S 7 SINS-LUST XXX" tvg-logo="http://imgs2.adultempire.com/products/03/1699403h.jpg" group-title="Vod-XXX",JAMES DEEN´S 7 SINS-LUST XXX
+http://tv.latiniptvplus.com:8000/movie/jeremysteffan/zc1ULP5wjJ/2151.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KAMASUTRA (1080p)" tvg-logo="https://www.tfpdl.de/tfpdl/wp-content/uploads/2014/10/7kFIojt.jpg" group-title="Vod-XXX",KAMASUTRA (1080p)
+http://tv.latiniptvplus.com:8000/movie/jeremysteffan/zc1ULP5wjJ/2363.mkv
+#EXTINF:-1 tvg-id="" tvg-name="MI SUEGRA ES UNA ZORRA XXX" tvg-logo="http://4.bp.blogspot.com/-gg4z6oFHKNc/Vg9LEdQ-apI/AAAAAAAABTY/xfeO6UGXhe4/s1600/mi-suegra-es-una-zorra.jpg" group-title="Vod-XXX",MI SUEGRA ES UNA ZORRA XXX
+http://tv.latiniptvplus.com:8000/movie/jeremysteffan/zc1ULP5wjJ/2152.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MOMS BANG TEENS 15 XXX" tvg-logo="http://pandamovie.net/adult/wp-content/uploads/2016/05/2a32e17.jpg" group-title="Vod-XXX",MOMS BANG TEENS 15 XXX
+http://tv.latiniptvplus.com:8000/movie/jeremysteffan/zc1ULP5wjJ/2153.mkv
+#EXTINF:-1 tvg-id="" tvg-name="MOTHERS TEMPTATION REALITY KINGS XXX" tvg-logo="http://pandamovie.net/adult/wp-content/uploads/2016/05/2a32e17.jpg" group-title="Vod-XXX",MOTHERS TEMPTATION REALITY KINGS XXX
+http://tv.latiniptvplus.com:8000/movie/jeremysteffan/zc1ULP5wjJ/2154.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NUBILES CASTING 10 XXX" tvg-logo="http://streamporn.net/wp-content/uploads/2016/03/fntt.jpeg" group-title="Vod-XXX",NUBILES CASTING 10 XXX
+http://tv.latiniptvplus.com:8000/movie/jeremysteffan/zc1ULP5wjJ/2155.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SINS OF OUR FATHERS 3 XXX" tvg-logo="http://158.69.226.108:8000/images/not-found.jpg" group-title="Vod-XXX",SINS OF OUR FATHERS 3 XXX
+http://tv.latiniptvplus.com:8000/movie/jeremysteffan/zc1ULP5wjJ/2156.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TAKE THE MIKE XXX" tvg-logo="http://158.69.226.108:8000/images/not-found.jpg" group-title="Vod-XXX",TAKE THE MIKE XXX
+http://tv.latiniptvplus.com:8000/movie/jeremysteffan/zc1ULP5wjJ/2157.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Abigail Mac & Alexa Tomas & Bridgette B & Karlo Karerra & Ramon - Pussy O Plomo: Part 4" tvg-logo="http://static.brazzers.com/scenes/9636/preview/img/01.jpg" group-title="Vod-XXX",Abigail Mac & Alexa Tomas & Bridgette B & Karlo Karerra & Ramon - Pussy O Plomo: Part 4
+http://tv.latiniptvplus.com:8000/movie/jeremysteffan/zc1ULP5wjJ/3351.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anastasia Hart & Xander Corvus - Massage Theraphsody" tvg-logo="http://static.brazzers.com/scenes/9753/preview/img/01.jpg" group-title="Vod-XXX",Anastasia Hart & Xander Corvus - Massage Theraphsody
+http://tv.latiniptvplus.com:8000/movie/jeremysteffan/zc1ULP5wjJ/3352.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jayme Langford & Jenna Ashley - Get Your O And Go" tvg-logo="http://static.brazzers.com/scenes/9756/preview/img/01.jpg" group-title="Vod-XXX",Jayme Langford & Jenna Ashley - Get Your O And Go
+http://tv.latiniptvplus.com:8000/movie/jeremysteffan/zc1ULP5wjJ/3353.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Abella Danger & Keisha Grey & Levi Cash - Day With A Pornstar: Keisha And Abella" tvg-logo="http://static.brazzers.com/scenes/9213/preview/img/03.jpg" group-title="Vod-XXX",Abella Danger & Keisha Grey & Levi Cash - Day With A Pornstar: Keisha And Abella
+http://tv.latiniptvplus.com:8000/movie/jeremysteffan/zc1ULP5wjJ/3354.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cali Carter & Charles Dera - Special Assistant To Ms. Carter" tvg-logo="http://static.brazzers.com/scenes/9749/preview/img/01.jpg" group-title="Vod-XXX",Cali Carter & Charles Dera - Special Assistant To Ms. Carter
+http://tv.latiniptvplus.com:8000/movie/jeremysteffan/zc1ULP5wjJ/3355.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peta Jensen & Levi Cash - Yoga For Perverts" tvg-logo="http://static.brazzers.com/scenes/9347/preview/img/01.jpg" group-title="Vod-XXX",Peta Jensen & Levi Cash - Yoga For Perverts
+http://tv.latiniptvplus.com:8000/movie/jeremysteffan/zc1ULP5wjJ/3356.mp4
+#EXTINF:-1 tvg-id="" tvg-name="August Taylor & Charles Dera - What's My Grade Again?" tvg-logo="http://static.brazzers.com/scenes/9347/preview/img/01.jpg" group-title="Vod-XXX",August Taylor & Charles Dera - What's My Grade Again?
+http://tv.latiniptvplus.com:8000/movie/jeremysteffan/zc1ULP5wjJ/3358.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Layla London & Sean Lawless - Attack of the Rack" tvg-logo="http://static.brazzers.com/scenes/9632/preview/img/01.jpg" group-title="Vod-XXX",Layla London & Sean Lawless - Attack of the Rack
+http://tv.latiniptvplus.com:8000/movie/jeremysteffan/zc1ULP5wjJ/3359.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assh Lee & Isiah Maxwell - Sunbathing Distraction" tvg-logo="http://static.brazzers.com/scenes/9789/preview/img/01.jpg" group-title="Vod-XXX",Assh Lee & Isiah Maxwell - Sunbathing Distraction
+http://tv.latiniptvplus.com:8000/movie/jeremysteffan/zc1ULP5wjJ/3360.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Xander Corvus & August Ames - Hittin That" tvg-logo="http://static.brazzers.com/scenes/9761/preview/img/02.jpg" group-title="Vod-XXX",Xander Corvus & August Ames - Hittin That
+http://tv.latiniptvplus.com:8000/movie/jeremysteffan/zc1ULP5wjJ/3361.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lana Rhoades & Keiran Lee - Over Easy" tvg-logo="http://static.brazzers.com/scenes/9780/preview/img/01.jpg" group-title="Vod-XXX",Lana Rhoades & Keiran Lee - Over Easy
+http://tv.latiniptvplus.com:8000/movie/jeremysteffan/zc1ULP5wjJ/3362.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ramon & Dillion Harper - Kneading A Teen" tvg-logo="http://static.brazzers.com/scenes/9755/preview/img/02.jpg" group-title="Vod-XXX",Ramon & Dillion Harper - Kneading A Teen
+http://tv.latiniptvplus.com:8000/movie/jeremysteffan/zc1ULP5wjJ/3363.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Charles Dera & Kiera Rose - Pussy Is The Best Medicine" tvg-logo="http://static.brazzers.com/scenes/9778/preview/img/01.jpg" group-title="Vod-XXX",Charles Dera & Kiera Rose - Pussy Is The Best Medicine
+http://tv.latiniptvplus.com:8000/movie/jeremysteffan/zc1ULP5wjJ/3364.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexis Fawx & Molly Mae - Pussy For Breakfast" tvg-logo="http://static.brazzers.com/scenes/9774/preview/img/01.jpg" group-title="Vod-XXX",Alexis Fawx & Molly Mae - Pussy For Breakfast
+http://tv.latiniptvplus.com:8000/movie/jeremysteffan/zc1ULP5wjJ/3365.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Romi Rain & Xander Corvus - Film Class Coochie" tvg-logo="http://static.brazzers.com/scenes/9604/preview/img/01.jpg" group-title="Vod-XXX",Romi Rain & Xander Corvus - Film Class Coochie
+http://tv.latiniptvplus.com:8000/movie/jeremysteffan/zc1ULP5wjJ/3366.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dani Daniels & Jessy Jones - ZZ Lemonade: Dani Daniels" tvg-logo="http://static.brazzers.com/scenes/9764/preview/img/04.jpg" group-title="Vod-XXX",Dani Daniels & Jessy Jones - ZZ Lemonade: Dani Daniels
+http://tv.latiniptvplus.com:8000/movie/jeremysteffan/zc1ULP5wjJ/3367.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Veruca James & Keiran Lee - Dear Keiran" tvg-logo="http://static.brazzers.com/scenes/9672/preview/img/01.jpg" group-title="Vod-XXX",Veruca James & Keiran Lee - Dear Keiran
+http://tv.latiniptvplus.com:8000/movie/jeremysteffan/zc1ULP5wjJ/3368.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peta Jensen & Keiran Lee - Massaging Peta" tvg-logo="http://1.bp.blogspot.com/_9Sqb6Vhazxg/TIcqIIDf5MI/AAAAAAAARVE/YuRUtFTIamI/s1600/Heidi+Montag.jpg" group-title="Vod-XXX",Peta Jensen & Keiran Lee - Massaging Peta
+http://tv.latiniptvplus.com:8000/movie/jeremysteffan/zc1ULP5wjJ/3395.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nicole Aniston & Nikki Benz & Charles Dera - One Last Shot" tvg-logo="http://158.69.226.108:8000/images/5389260.jpg" group-title="Vod-XXX",Nicole Aniston & Nikki Benz & Charles Dera - One Last Shot
+http://tv.latiniptvplus.com:8000/movie/jeremysteffan/zc1ULP5wjJ/3401.mp4
